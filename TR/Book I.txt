@@ -101,7 +101,7 @@ reluctantly or going to the world below in a state of terror after failing to
 pay what you owe, whether sacrifices to a god or money to a man, then the
 possession of money contributes in no small measure to this end. That's
 admirably put Cephalus I said, but since you've brought up the subject of
-Justice can we say quite simply that it is truthfulness and returning anything
+justice can we say quite simply that it is truthfulness and returning anything
 you may have received from anyone else, or is it sometimes right to behave in
 these ways and sometimes wrong. Let me give you an example, suppose you borrowed
 some weapons from a friend when he was in his right mind, suppose he later went
@@ -117,7 +117,7 @@ sacrifices. Well am I not Polemarchus, your heir. You certainly are he replied
 with a laugh and went off to his sacrifices.
 
 Tell me then I said, you, who have inherited the argument, what does Simonides
-say about Justice that you think is correct. That it is just to pay everyone
+say about justice that you think is correct. That it is just to pay everyone
 what is owed to him, that's what he says and I think he's right. Well I said,
 Simonides is a wise and inspired man, it is certainly not easy to disagree with
 him, but what on earth does he mean by this remark? You may well know
@@ -138,7 +138,7 @@ it is. What about enemies? Should you give them whatever is in fact due to them?
 You certainly should he said, and what is due between enemies is what is
 appropriate something harmful. Simonides was speaking as a poet then apparently
 and disguising his definition of justice, what he meant it seems was that
-Justice was giving any individual what was appropriate for him, but he called it
+justice was giving any individual what was appropriate for him, but he called it
 what was owed. Yes that must have been what he meant. Suppose then one of us had
 said to him, Simonides, take the art or skill which is called medicine what does
 it give that is due and appropriate and to what does it give it? What do you
@@ -146,22 +146,22 @@ think his answer would have been. Obviously he replied, he would have said it
 gives the body drugs and food and drink. And the art of cookery, what does it
 give that is due and appropriate and to what does it give it? It gives flavour
 to cooked food. Very well, then what about the art or skill which we would call
-Justice, what does it give and to what does it give it? Well if we're to follow
+justice, what does it give and to what does it give it? Well if we're to follow
 the previous definition Socrates, it gives benefits and injuries to friends and
 enemies. Does he mean then that helping your friends and harming your enemies is
-Justice. I think so. All right, when people are unwell when it's a question of
+justice. I think so. All right, when people are unwell when it's a question of
 sickness and health, who is best at helping them if they are friends and harming
 them if they are enemies? A doctor. And when they're at sea who can best help or
-harm them amid the dangers of a sea voyage? A ship's Captain. What about the
+harm them amid the dangers of a sea voyage? A ship's captain. What about the
 just man in what activity and for what purpose is he the one best able to treat
 his friends well and his enemies badly. In war and alliances I think. Very well,
-now when people aren't ill, my dear Polemarchus, a doctor is nouse to them.
-True. And when they not at sea, a ship's Captain is no use to them. No. Does
+now when people aren't ill, my dear Polemarchus, a doctor is no use to them.
+True. And when they not at sea, a ship's captain is no use to them. No. Does
 that mean the just man is no use to them when they're not at war. No I'm sure it
-doesn't. Justice is something useful even in peace time then? Yes it is. But
+doesn't. justice is something useful even in peace time then? Yes it is. But
 then so is agriculture isn't it? Yes. For producing crops? Yes. And shoe making.
 Yes that's useful for for producing shoes you would say presumably? Of course.
-What about Justice then, when you say it's useful in peace time what is it
+What about justice then, when you say it's useful in peace time what is it
 useful for, what does it produce? Contracts Socrates. And by contracts do you
 mean partnerships or something else? I mean Partnerships. All right, is the just
 man a good and useful partner when it comes to playing backgammon, or would
@@ -178,17 +178,17 @@ or ship's captain. So it seems. In what situation then requiring the joint use
 of silver or gold is the just man more useful than anyone else? When there's a
 need to deposit money and have it kept safe. You mean when there's no need to
 put it to any use, you just want it to stay where it is. That's right. So it's
-when money is useless that Justice is useful for dealing with it. It looks like
-it. And a pruning knife when you want to keep it safe, then Justice is useful
+when money is useless that justice is useful for dealing with it. It looks like
+it. And a pruning knife when you want to keep it safe, then justice is useful
 both in public life and in private life, but when you want to use it then the
 art of viticulture is what you want. Apparently. And are you going to say the
-same about a shield or a lyre that Justice is useful when you need to keep them
+same about a shield or a lyre that justice is useful when you need to keep them
 safe and not use them, but that when you do need to use them, then you want the
-solders art and the art of music? I shall have to say that. And in all other
-examples Justice is useless when it comes to using any of them and useful only
+solder's art and the art of music? I shall have to say that. And in all other
+examples justice is useless when it comes to using any of them and useful only
 when they are useless? I suppose so he said. Though personally I can't any
 longer remember what I did say, but one thing I do think still and that is that
-Justice is treating your friends well and your enemies badly. By friends do you
+justice is treating your friends well and your enemies badly. By friends do you
 mean the people each individual believes to be good or those who really are good
 even if he doesn't realize it and the same with enemies. In all probability he
 replied, people will like those they think are good and dislike those they think
@@ -225,12 +225,12 @@ standard we use to judge horses. The standard we use to judge horses. And dogs
 the same if you treat them badly they become worse by the standard we use to
 judge dogs not horses? They must do. What about humans my friend, are we to say
 in the the same way that if they are treated badly they become worse by the
-standard we use to judge Human Excellence. Certainly. But isn't Justice a form
+standard we use to judge Human Excellence. Certainly. But isn't justice a form
 of Human Excellence. Again it must be. In which case my friend members of the
 human race who are treated badly must necessarily become more unjust. It looks
 like it. Are musicians able by means of music to make people unmusical? No
 that's impossible. Can horsemen make people unskilled with horses by means of
-horsemanship. No. And can the just make people unjust by means of Justice, or in
+horsemanship. No. And can the just make people unjust by means of justice, or in
 general, can the good use Human Excellence to make people bad. No that's
 impossible. Yes because it's not the property of heat I assume to make things
 cold, it's the property of its opposite. Yes. Nor is it the property of dryness
@@ -247,7 +247,7 @@ reached this stopping place in the argument, he was incapable of remaining
 silent any longer he gathered himself and sprang at us like a wild beast at its
 prey. Speaking up loud and clear, Thrasymachus said, what's this nonsense that
 has got into you two Socrates why be so obliging? Why keep giving way to one
-another? If you really want to know what Justice is then stop simply asking
+another? If you really want to know what justice is then stop simply asking
 questions and scoring points by proving that any answer given by anyone else is
 wrong. You know perfectly well it's easier to ask questions than to give answers
 come on, why don't you give some answers yourself, tell us what you say justice
@@ -258,7 +258,7 @@ Don't be angry with us Thrasymachus I said, with some apprehension, if
 Polemarchus and I are making mistakes in our examination of the arguments, I
 assure you we're not making them on purpose if we're looking for gold we
 wouldn't deliberately give way to one another in our search and so destroy our
-chances of finding it so since what we are actually looking for is Justice, a
+chances of finding it so since what we are actually looking for is justice, a
 thing more valuable than a large quantity of gold, you can't imagine we are so
 stupid as to make concessions to one another and not be determined to bring it
 as clearly as possible into view, believe us my friend, the trouble is we lack
@@ -275,7 +275,7 @@ obvious to you I imagine that if you asked the question in that way no one could
 possibly answer it. Is that just what you're going to do now? Are you going to
 give one of the answers I told you not to give. It wouldn't surprise me I said,
 if on reflection I came to that conclusion. What if if I give you an answer
-about Justice which is quite different from all those other answers, a much
+about justice which is quite different from all those other answers, a much
 better answer than those what do you think should be your penalty. Well
 obviously the penalty appropriate to someone who doesn't know, he should learn I
 take it from the person who does know. You innocent! Said Thrasymachus, no, you
@@ -292,7 +292,7 @@ to say any of the things he thought. No it makes much more sense for you to
 speak, you're the one who claims to know the answer and have something to say,
 so please as a favour tome don't keep your answer to yourself, give Glaucon here
 and the others the benefit of your knowledge. Hear it then he said, I say that
-Justice is simply what is good for the stronger. Well where's all that praise?
+justice is simply what is good for the stronger. Well where's all that praise?
 You're not going to give it, are you? Yes I will, as soon as I understand what
 you mean. At the moment I still don't know. What is good for the stronger you
 say is just, what do you mean by that Thrasymachus, if Polydesmus the all-in
@@ -316,7 +316,7 @@ seen. So even your answer Thrasymachus, is that what is good for a person is
 just though that was answer you told me firmly not to give, but you add the
 qualification for the stronger. A trivial addition you may say. That's not yet
 clear. It may well be an important one. What is clear is that we must examine
-whether what you say is true. Like you, I agree that Justice is something that
+whether what you say is true. Like you, I agree that justice is something that
 is good for a person but while you qualify it as what is good for the stronger,
 I'm not so sure, we should examine the question. Go on then, examine it! I shall
 I said. Tell me don't you also say that it is right for subjects to obey their
