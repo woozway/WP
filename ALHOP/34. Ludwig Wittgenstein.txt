@@ -1,0 +1,166 @@
+Bewitched by Language
+Ludwig Wittgenstein
+
+If you found yourself at one of the seminars Ludwig Wittgenstein
+(1889–1951) held in Cambridge in 1940 you would very quickly
+realize that you were in the presence of someone very unusual.
+Most people who met him thought he was a genius. Bertrand
+Russell described him as ‘passionate, profound, intense and domi-
+nating’. This small Viennese man with bright blue eyes and a deep
+seriousness about him would pace up and down, asking students
+questions, or pause lost in thought for minutes at a time. No one
+dared interrupt. He didn’t lecture from prepared notes, but thought
+through the issues in front of his audience, using a series of exam-
+ples to tease out what was at stake. He told his students not to
+waste their time reading philosophy books; if they took such
+books seriously, he said, they should throw them across the room
+and get on with thinking hard about the puzzles they raised.
+
+His own first book, the Tractatus Logico-Philosophicus (1922),
+was written in numbered short sections, many of which read
+more like poetry than philosophy. Its main message was that the
+most important questions about ethics and religion lie beyond
+the limits of our understanding and that if we can’t talk mean-
+ingfully about them, we should stay silent.
+
+A central theme in this later work was ‘bewitchment by
+language’. Language leads philosophers into all sorts of confu-
+sion, he believed. They fall under its spell. Wittgenstein saw his
+role as that of a therapist who would make much of this confu-
+sion go away. The idea was that you would follow the logic of his
+various carefully chosen examples and that as you did this your
+philosophical problems would vanish. What had seemed terribly
+important would no longer be a problem.
+
+One cause of philosophical confusion was, he suggested, the
+assumption that all language works in the same way – the idea
+that words simply name things. He wanted to demonstrate to
+his readers that there are many ‘language games’, different
+activities that we perform using words. There is no ‘essence’ of
+language, no single common feature that explains the whole
+range of its uses.
+
+If you see a group of people who are related to each other, at
+a wedding for example, you may be able to recognize members
+of the family from physical resemblances between them. That is
+what Wittgenstein meant by a ‘family resemblance’. So you may
+look a bit like your mother in some ways – perhaps you both
+have the same hair and eye colour – and a bit like your grandfa-
+ther in that you are both tall and slim. You might also have the
+same hair colour and eye shape as your sister, but she might
+have different-coloured eyes from you and your mother. There
+is not one single feature that every member of the family shares
+that makes it straightforward to see that you are all part of the
+same genetically related family. Instead, there is a pattern of
+overlapping resemblances, with some of you sharing some
+features, and others sharing different features. That pattern of
+overlapping resemblances is what interested Wittgenstein. He
+used this metaphor of family resemblance to explain something
+important about how language works.
+
+Think about the word ‘game’. There are lots of different things
+that we call games: board games like chess, card games like
+bridge and patience, sports like football, and so on. There are
+also other things that we call games, such as games of hide-and-
+seek or games of make-believe. Most people just assume that
+because we use the same word – ‘game’ – to cover all these, there
+must be a single feature that they all have in common, the
+‘essence’ of the concept ‘game’. But rather than just assuming
+that there is such a common denominator, Wittgenstein urges
+his readers to ‘Look and see’. You might think that games all
+have a winner and a loser, but what about solitaire, or the
+activity of throwing a ball at a wall and catching it? Both of these
+are games, but obviously there isn’t a loser. Or what about the
+idea that what they have in common is a set of rules? But some
+games of make-believe don’t seem to have rules. For every
+candidate for a common feature of all games, Wittgenstein
+comes up with a counter-example, a case of something that is a
+game but that doesn’t seem to share the suggested ‘essence’ of all
+games. Instead of assuming that all games have a single thing in
+common, he thinks we should see words like ‘game’ as ‘family
+resemblance terms’.
+
+When Wittgenstein described language as a series of ‘language
+games’ he was drawing attention to the fact that there are many
+different things that we use language for, and that philosophers
+have become confused because they mostly think that all language
+is doing the same sort of thing. In one of his famous descriptions
+of his aim as a philosopher, he said that what he wanted to do was
+show the fly the way out of the fly bottle. A typical philosopher
+will buzz around like a fly trapped in a bottle, banging against the
+sides. The way to ‘solve’ a philosophical problem was to remove
+the cork and let the fly out. What this meant was that he wanted
+to show the philosopher that he or she had been asking the wrong
+questions or had been misled by language.
+
+Take St Augustine’s description of how he had learnt to speak.
+In his Confessions, he suggested that the older people around
+him would point to objects and name them. He sees an apple,
+someone points to it and says ‘apple’. Gradually Augustine
+understood what the words meant and was able to use them to
+tell other people what he wanted. Wittgenstein took this account
+to be a case of someone assuming that all language had an
+essence, a single function. The single function was to name
+objects. For Augustine, every word has a meaning that it stands
+for. In place of this picture of language, Wittgenstein encourages
+us to see language use as a series of activities that are tied up
+with the practical lives of speakers. We should think of language
+as more like a tool bag containing many different sorts of tools,
+rather than as, for example, always serving the function that a
+screwdriver does.
+
+It may seem obvious to you that when you are in pain and
+you speak about it what you are doing is using words which
+name the particular sensation you have. But Wittgenstein tries
+to disrupt that view of the language of sensation. It’s not that
+you don’t have a sensation. It’s just that, logically, your words
+can’t be the names of sensations. If everybody had a box with a
+beetle in that they never showed to anyone, it wouldn’t really
+matter what was in the box when they talked to one another
+about their ‘beetle’. Language is public, and it requires publicly
+available ways of checking that we are making sense. When a
+child learns to ‘describe’ her pain, Wittgenstein says, what
+happens is that the parent encourages the child to do various
+things, such as say ‘It hurts’ – the equivalent in many ways to the
+quite natural expression ‘Aaargh!’ Part of his message here is
+that we should not think of the words ‘I am in pain’ as a way of
+naming a private sensation. If pains and other sensations really
+were private we would need a special private language to
+describe them. But Wittgenstein thought that idea didn’t make
+sense. Another of his examples may help explain why he
+thought this.
+
+A man decides that he will keep a record of every time he has
+a particular kind of sensation for which there is no name –
+perhaps a specific kind of tingle. He writes ‘S’ in his diary when-
+ever he feels that special tingling sensation. ‘S’ is a word in his
+private language – no one else knows what he means by it. This
+sounds as if it is possible. It isn’t difficult to imagine a man
+doing exactly this. But then, think a bit harder. How does he
+know when he gets a tingle that it really is a further example of
+the type ‘S’ he’s decided to record and not another kind of
+tingle? He can’t go back and check it against anything except his
+memory of having an earlier ‘S’ tingling experience. That’s not
+really good enough, though, because he could be completely
+mistaken about it. It isn’t a reliable way of telling that you are
+using the word in the same way.
+
+The point he was trying to make with his example of the
+diary was that the way we use words to describe our experiences
+can’t be based on a private linking of the experience with the
+word. There must be something public about it. We can’t have
+our own private language. And if that is true, the idea that the
+mind is like a locked theatre that no one else can get into is
+misleading. For Wittgenstein, then, the idea of a private language
+of sensations doesn’t make sense at all. This is important – and
+difficult to grasp too – because many philosophers before him
+thought that each individual’s mind was completely private.
+
+Although Christian by religion, the Wittgenstein family was
+considered Jewish under Nazi laws. Ludwig spent part of the
+Second World War working as an orderly in a London hospital,
+but his extended family were lucky to escape from Vienna. Had
+they not, Adolf Eichmann might have overseen their deporta-
+tion to the death camps. Eichmann’s involvement in the
+Holocaust and his later trial for crimes against humanity were
+the focus of Hannah Arendt’s reflections on the nature of evil.
