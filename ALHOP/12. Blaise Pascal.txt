@@ -1,3 +1,6 @@
+Place Your Bets
+Blaise Pascal
+
 If you toss a coin it can come up heads or tails. There is a 50/50
 chance of either, unless the coin has a bias. So it doesn’t really
 matter which side you bet on as it is just as likely each time you
