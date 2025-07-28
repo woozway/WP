@@ -1,0 +1,756 @@
+Nigel Warburton, Thinking from A to Z
+
+absurd consequences move
+Proving that a position is false, or at least untenable, by showing that if
+true it would lead to absurd consequences. This is sometimes called a
+reductio ad absurdum. It is a common and highly effective method of
+refuting (see refutation) a position.
+
+For example, if someone asserts (see assertion) that anyone
+who takes a mind-altering drug is a danger to society and should be
+locked away, then it is easy to refute them by using an absurd
+consequences move. Alcohol is a mind-altering drug that many of
+the greatest contributors to western civilisation have used on occa-
+sion. Are we then to lock away everyone who has ever used alcohol?
+Clearly that would be absurd. So, we can be confident that the genera-
+lisation which led to the conclusion that we should do so is untenable.
+It at least has to be refined so that it is clear precisely which mind-
+altering drugs are supposed to be covered by the term (but see ad hoc
+clauses).
+
+Consider another example. A politician might argue that a good
+way of increasing the income to the treasury would be to investigate
+every taxpayer’s tax returns thoroughly, thereby clamping down on tax
+evasion. However, in practice this would cost far more to carry out than
+could possibly be reclaimed and so can be seen to lead to the absurd
+consequence that a scheme for increasing income would end up by
+reducing it. This gives us good grounds for jettisoning the politician’s
+suggestion as matters now stand (assuming, of course, that the sole
+reason for implementing such a policy was to increase treasury
+income). If a cheaper way of investigating tax returns could be
+developed then the politician’s suggestion might not lead to absurd
+consequences and could be a viable policy.
+
+One problem with using the absurd consequences move is that
+there is usually no touchstone for absurdity; one person’s absurdity is
+another’s common sense. Unless a view implies a contradiction there
+is no easy way of demonstrating its absurdity (see biting the bullet).
+Nevertheless, if you can see that obviously absurd consequences follow
+from a position, it gives you good grounds for rejecting it.
+
+adage
+See truth by adage.
+
+ad hoc clauses
+Clauses added to a hypothesis to make the hypothesis consistent
+with some new observation or discovered fact. If your hypothesis is
+threatened by some inconvenient fact which it is incapable of explaining,
+you have two options: you can either abandon your hypothesis and seek
+a new one which is capable of explaining this new fact; or else you can
+add a special clause to your general hypothesis, an ad hoc clause.
+Patching up a hypothesis is a move which can be acceptable, but often is
+not. This is most clearly seen by considering examples.
+
+A politician might claim that if the rich are encouraged to grow
+richer then the poorest of the nation will benefit because the wealth that
+the rich generate will gradually trickle down to the poor. For the sake
+of argument, suppose (see supposition) that a five-year study showed
+that no such trickle-down effect occurred. The politician might then be
+expected to abandon the initial hypothesis. However, another option
+would be to add a special clause to the hypothesis to prevent the
+evidence presented by the study standing as a refutation of it. For
+instance, the new hypothesis could be, ‘If the rich are encouraged to
+grow richer then the poorest of the nation will benefit because the
+wealth that the rich generate will gradually trickle down to the poor, but
+the effects of this will not be visible in the first five years.’ If the country
+in question was just coming out of a recession, a different ad hoc clause
+could be appended: ‘but the effects of encouraging the rich to become
+richer will be masked by the effects of a recession.’
+
+A biologist might begin with the hypothesis that all independent
+living organisms are either unicellular (consist of a single cell) or multi-
+cellular (have many cells). However, the existence of a bizarre animal,
+known as slime mould, confounds this hypothesis, revealing it as a false
+dichotomy since at one stage slime mould is an independent unicellular
+organism and at another stage of its development it combines with
+other unicellular slime moulds to form a multicellular organism. The
+existence of slime mould confounds the hypothesis. In the light of this,
+the biologist might modify the initial hypothesis to, ‘All independent
+living organisms except slime mould are either unicellular or multi-
+cellular.’ This would be an acceptable modification; however, if there
+were a large number of species which, like slime mould, defied the
+simple dichotomy in the hypothesis then adding further ad hoc clauses
+would at a certain point undermine the power of the generalisation.
+
+There is a fine line between making a hypothesis more detailed
+in the light of further evidence and undermining its power as a
+generalisation by adding numerous exception clauses.
+
+ad hominem move
+A Latin phrase meaning ‘to the person’. It is used in two main ways,
+which can lead to confusion (see ambiguity). By far the most common
+use is to draw attention to the devious move in debate which I discuss
+in the section getting personal, that is, shifting attention from the point
+in question to some non-relevant aspect of the person making it. Calling
+someone’s statement ad hominem in this sense is always a reproach; it
+involves the claim that the aspects of the arguer’s personality or
+behaviour which have become the focus of discussion are irrelevant to
+the point being discussed.
+
+For example, someone might argue that we shouldn’t take
+seriously the findings of a medical scientist who had researched
+the beneficial effects of jogging on the cardiovascular system on the
+grounds that the scientist was overweight and probably couldn’t run
+more than a hundred yards. However, this fact is entirely irrelevant (see
+irrelevance) to the scientist’s ability to assess the evidence. If the
+scientist had been shown to be a liar, or an incompetent researcher, then
+that would be relevant to our understanding of the results of the
+research. But to focus on the scientist’s level of fitness is an example
+of an ad hominem move in the first sense. This should not be confused
+with the charge of hypocrisy, not practising what you preach. The
+sedentary scientist would only be a hypocrite if he or she urged others
+to take up jogging.
+
+An ad hominem argument in the second sense is a legitimate
+demonstration of an opponent’s inconsistency. This is a much rarer use
+of the term. An argument is ad hominem in this second sense if it
+involves turning the argument back on the opponent (sometimes known
+as the ‘you too’ or ‘tu quoque’ move). For instance, if someone argues
+both that all killing is morally wrong and that there is nothing immoral
+about capital punishment, then (provided that you can demonstrate that
+capital punishment is a form of killing — not a difficult task), you can
+use an ad hominem argument (in the second sense) in response. It is
+impossible without contradicting yourself (see contradiction) to claim
+that all forms of killing are morally wrong and that one form of killing
+is not morally wrong. That is tantamount to saying both that all killing
+is morally wrong and that it is not true that all killing is morally wrong.
+In this case turning the argument back on the opponent would clearly
+demonstrate that his or her position was untenable.
+
+It is important to distinguish the two senses of ad hominem
+because the first is an informal fallacy; the second a perfectly accept-
+able move in argument.
+
+affirming the antecedent
+A valid argument (see validity) with the following form:
+  If p then q
+  p
+  Therefore q
+
+Here p and q are used to stand for any states of affairs that you care
+to insert: the antecedent is p and the consequent q. This form of
+argument is often known by its Latin name, modus ponens, which
+means ‘the mood that affirms’. An example of affirming the antecedent
+is
+  If you have bought this book I will receive a royalty.
+  You have bought this book.
+  Therefore I will receive a royalty.
+
+Another example of affirming the antecedent is
+  If you are a goldfish then you can ride a bicycle
+  You are a goldfish
+  Therefore you can ride a bicycle
+
+Note that in this second example the obvious absurdity of the first
+premise doesn’t affect the validity of the argument: both arguments
+have the same logical form.
+
+Affirming the antecedent should be clearly distinguished from
+the formal fallacy known as affirming the consequent.
+
+affirming the consequent
+A formal fallacy which may have the superficial appearance of a valid
+argument (see validity). It has the following underlying form:
+  If p then q
+  q
+  therefore p
+
+For instance, both of the following have the same underlying structure
+as I have given in terms of p and q above:
+
+  If you possess a Green Card you can work legally in the United
+  States.
+  You can work legally in the United States.
+  So you’ve got a Green Card.
+
+and
+  If a car runs out of fuel it stops.
+  Your car has stopped.
+  So your car has run out of fuel.
+
+It is probably easier to see what is wrong with this form of argument
+by considering some more examples of the same form:
+  If she secretly loved me and didn’t want her boyfriend to find
+  out then she wouldn’t reply to my letters.
+  She hasn’t replied to my letters.
+  So she secretly loves me and doesn’t want her boyfriend to find
+  out.
+
+What is wrong with this argument is that even if the two premises are
+true, then the conclusion isn’t necessarily true: it might be true and it
+might not. So it’s not a reliable deduction. Its conclusion is a non
+sequitur: it doesn’t necessarily follow. It treats the fact of her not
+replying to my letters as a sufficient condition (see necessary and
+sufficient conditions) of her secretly loving me and not wanting her
+boyfriend to find out. But it is obvious that the first premise does not
+maintain that the only possible reason for her lack of response is that
+she secretly loves me; for the argument to be valid we would have to
+read ‘if’ as meaning ‘if and only if’ (sometimes written by logicians as
+‘iff’), and in most contexts it would be a sign of delusion or at least
+wishful thinking to believe that the first premise offers the only
+possible explanation of her lack of response. There are numerous
+alternative explanations for her silence: she might be irritated by my
+letters, she might not want to encourage me, she might never have
+opened them. There is nothing inconsistent (see consistency) about
+believing both that if she secretly loves me and doesn’t want her
+boyfriend to find out then she won’t reply to my letters and that the fact
+that she hasn’t replied to my letters is not necessarily an indication that
+she secretly loves me.
+
+Another example. People who have AIDS are prone to colds
+and often suffer from night sweats. But it would be a mistake to
+think that just because you are prone to colds and suffer from
+night sweats that you must have AIDS. That is only one possible
+explanation; it in no way follows logically from the premise ‘If you
+have AIDS then you will be prone to colds and may suffer from night
+sweats’ that anyone who has these symptoms must have AIDS. To
+arrive at that conclusion you would need to believe that only people
+who have AIDS are prone to colds and nights sweats; and that is
+obviously untrue.
+
+A more exaggerated example makes it clear that this form of
+argument is not a reliable one. It is undoubtedly true that if I had bought
+a new car then I would be massively overdrawn at the bank. As it
+happens, I am massively overdrawn; but there are numerous alternative
+explanations for this phenomenon, such as that my publisher isn’t
+paying me high enough royalties to support my extravagant lifestyle. I
+couldn’t reliably conclude from the fact that I am overdrawn that I must
+have bought a car. That would clearly be absurd. This technique of
+considering an obviously absurd argument of the same form in order to
+show the invalidity of a type of argument is a useful one; it helps
+separate the possible distraction of the particular content of an
+argument from the underlying structure. If the argument is an invalid
+one, even if it happens to yield a true conclusion, then we should not
+rely on it since the conclusion is not one that follows logically from the
+premises (see bad reasons fallacy).
+
+One reason why fallacy of affirming the consequent can be
+tempting is that it superficially resembles a valid form of argument
+known as affirming the antecedent (modus ponens):
+  If p then q
+  p
+  therefore q
+
+An argument with this form is:
+  If you burp your baby after feeding she’ll sleep soundly.
+  You have burped your baby after feeding.
+  So she’ll sleep soundly.
+
+Here if the premises are true, the conclusion must be true. The
+fallacious form of this argument would be:
+  If you burp your baby after feeding she’ll sleep soundly.
+  Your baby is sleeping soundly.
+  So you must have burped her.
+
+But, as the earlier examples demonstrated, affirming the consequent
+in no way guarantees a true conclusion even if the premises are
+true.
+
+Even though many instances of this fallacy are simple to spot,
+when some of the premises are implicit rather than stated the reasoning
+errors can be harder to identify.
+
+all and some
+See some/all confusion.
+
+alternative explanations
+Ignored explanations of the phenomenon in question. In many
+situations it is tempting to believe that because an explanation is
+consistent (see consistency) with the known facts it must therefore be
+the correct explanation. This is especially tempting when the particular
+explanation is the one which we would most like to be true. However,
+this is wishful thinking and ignores the possibility of plausible
+alternative explanations of precisely the same observations.
+
+The formal fallacy of affirming the consequent typically
+involves ignoring alternative explanations, as for instance in the
+following example:
+  If you accidentally expose your film, then your photographs
+  won’t come out.
+  Your photographs haven’t come out.
+  So you must have accidentally exposed your film.
+
+Here the numerous alternative explanations for the photographs’ not
+coming out have been completely ignored: you could have had faulty
+film, they could have been inexpertly developed, or perhaps you forgot
+to remove the lens cap.
+
+When people are arguing from the existence of a correlation to a
+conclusion about a causal connection (see correlation = cause
+confusion) they are particularly prone to neglect the possibility of
+alternative explanations. For instance, a scientist attempting to show
+that musical ability is largely inherited might examine the musical
+ability of a large number of children of talented musicians and compare
+this with the ability of children from non-musical families. It would not
+be surprising in such a survey to discover a significant correlation
+between being a proficient musician and one or both of your parents
+being musical themselves. However, if the scientist were to take this as
+firm evidence of inherited musical ability this would be an unreliable
+conclusion to draw from this evidence alone, since children of
+musicians are far more likely to be taught to play a musical instrument
+from an early age than are other children. In other words, the scientist
+would be ignoring an alternative explanation of the same phenomenon.
+In fact, probably the most plausible explanation is that there are both
+hereditary and environmental factors in musical ability; this too is
+consistent with the observed facts in the imaginary case above.
+
+People who believe that aliens from another galaxy regularly
+visit the earth, occasionally abduct people in order to perform medical
+experiments on them, buzz unsuspecting airline pilots and so on,
+usually maintain their exotic beliefs by ignoring the alternative
+explanations of the phenomena they take to be evidence for their
+beliefs. So, for instance, although it is undoubtedly true that strange
+patterns are sometimes found in cornfields, it doesn’t follow that they
+must have been made by extraterrestrials. There is a wide range of far
+more plausible alternative explanations of the phenomenon, such as
+that they have been made by pranksters, or are the result of freak
+weather conditions. It is a huge and unwarranted step to move from the
+fact that such crop circles could have been caused by extraterrestials to
+the conclusion that they must have been. Before reaching that con-
+clusion you would have to prove that visits by extraterrestials are the
+only possible explanation, or at least the most plausible one, for crop
+circles. Only when we have eliminated other possible explanations
+should we believe the improbable. And even then we should be aware
+of the power of wishful thinking.
+
+ambiguity
+An ambiguous word or phrase has two or more meanings. Ambiguity
+should not be confused with vagueness. Vagueness results from
+imprecision in language; ambiguity only arises when a word or phrase
+can be interpreted in different ways. There are three common sorts of
+ambiguity: lexical, referential and syntactical.
+
+Lexical ambiguity occurs when a word with two or more possible
+meanings is used so that the phrase or sentence in which it appears can
+be understood in more than one way. For instance, a book called The
+Myth of the Goddess could either be about a particular myth or else be
+an attack on the idea that there ever was a goddess; this is because the
+word ‘myth’ has two related yet distinct meanings. Or, similarly, from
+the title Discrimination alone it would be impossible to tell whether a
+book was about the unfair treatment of certain groups in society, as in
+the phrase ‘racial discrimination’, or the ability to make subtle aesthetic
+judgements, as in ‘the connoisseur exercised fine discrimination’. Of
+course both these book titles could be deliberate puns. Puns play on
+lexical ambiguities. When Dr Johnson saw two women standing on
+their doorsteps arguing he commented that they would never agree
+because they were ‘arguing from different premises’, a witticism
+playing on two possible meanings of ‘premises’. Actually, however,
+two people arguing from different premises (in the sense of starting-
+points in arguments) could reach the same conclusion; but they
+wouldn’t arrive at this conclusion by the same route.
+
+Referential ambiguity occurs when a word is used so that it could
+be taken to be referring to either of two or more things. For instance, if
+two people in the room are called John, then just saying ‘There’s a
+phone call for John’ will be decidedly unhelpful unless it’s clear from
+the context which John you mean (you might, for example, look
+straight at the appropriate John as you say it). Such ambiguities
+of reference often occur when using pronouns such as ‘it’, ‘her’, ‘him’
+and ‘they’. ‘The sultana rolled off my plate and came to rest underneath
+my fork, so I picked it up’ doesn’t make absolutely clear what it was
+that I picked up. Was it the sultana, the fork, or possibly, though less
+likely, the plate? (Although strictly speaking the word ‘sultana’ could
+mean ‘female sultan’, the context within the sentence rules out any
+lexical ambiguity.)
+
+Syntactical ambiguity, sometimes called amphiboly, occurs
+when the order of words allows two or more interpretations. For
+instance, ‘a small fish packing factory’ could mean either a factory for
+packing small fish, or else a small factory for packing fish of an
+undisclosed size. Here judicious use of hyphens would remove the
+ambiguity; in other cases paraphrasing may be necessary. ‘I heard
+about what you got up to at work yesterday’ is ambiguous in two ways.
+It could either mean that I heard what you got up to when you were at
+work, or that I was at work when I heard what you got up to. The
+second way in which it is ambiguous is that the order of words leaves
+it unclear as to whether it was yesterday that I heard about you, or
+whether what I heard about you referred to something that you did
+yesterday.
+
+While it is extremely difficult to eliminate all ambiguity,
+wherever there is a serious possibility of confusion it is worth taking the
+time to make your intended meaning clear (see also equivocation).
+However, it would be sheer pedantry to waste your life ruling out all
+possible but highly unlikely interpretations, unless of course you are
+drawing up a legal document.
+
+amphiboly
+See ambiguity.
+
+analogy, arguments from
+Arguments based on a comparison between two things which are
+alleged to be similar. Arguments from analogy rely on the principle that
+if two things are similar in some known respects they are likely to be
+similar in other respects even if these are not directly observable. This
+principle, which relies on induction, at best usually only yields
+probable conclusions; it rarely provides a conclusive proof since
+similarity in some respects does not always reliably indicate similarity
+in other respects. An exception to this is when the similarity in question
+is similarity of logical form, in which case, if one argument is valid
+(see validity), then any other argument of the same logical form must
+also be valid.
+
+Arguing on the basis of analogy may at first glance seem an
+entirely reliable form of reasoning. How else could we learn from our
+experience if not by transferring the results of particular discoveries to
+similar new situations? However, arguments from analogy are only
+reliable if the situations being compared are relevantly similar, and
+unfortunately there is no simple test for relevant similarity.
+
+One of the most famous uses of argument from analogy is the
+attempt to prove God’s existence known as the Argument from Design.
+In its simplest form this is the argument that because there are various
+visible similarities between natural objects and those which have been
+designed by human beings — between the human eye and a camera, for
+instance — we can conclude that both must have been produced by a
+similar sort of intelligence. In other words, perceivable similarities
+between two sorts of thing are taken as a reliable indication that they
+have similar sorts of origin: in this case an intelligent designer. Because
+the eye is more sophisticated in ‘design’ than the camera, using this
+argument from analogy, we can conclude that the designer of the eye
+was correspondingly more intelligent and powerful than the designer of
+the camera. The conclusion of the Argument from Design is that the
+intelligent and powerful designer of the eye must have been God.
+
+However, as many philosophers have pointed out, the analogy
+between such things as an eye and a camera is relatively weak;
+although there are respects in which they are quite similar (both have
+a lens, for instance), there are also numerous respects in which they
+differ (the eye, for instance, is part of a living organism; the camera is
+a machine). If the Argument from Design rests on a relatively weak
+analogy (see disanology), then its conclusions about the causes of the
+apparent design of natural objects must be correspondingly weak.
+Besides, in this case there is also a highly plausible alternative
+explanation of precisely the same observations, namely Charles
+Darwin’s theory of evolution by natural selection. The Argument from
+Design does not on its own provide anything like a proof of God’s
+existence both because the analogy on which it rests is relatively weak
+and because there is a competing theory which explains the apparent
+design of living organisms as arising from the impersonal workings of
+heredity and environment.
+
+The philosopher Judith Jarvis Thomson, writing on the morality
+of abortion, used an analogy to defend her view that even if a foetus has
+rights, these do not necessarily override a woman’s right to determine
+what happens in and to her body (see also thought experiment). She
+compared some kinds of pregnancy with the imagined situation of
+waking up to find that you have had a famous violinist plugged into
+your vital organs and being told that unless you leave him plugged in
+for nine months, thereby causing you considerable discomfort, he will
+die. The point of this far-fetched analogy was to bring out in a clear way
+some of what is at stake in debates about a foetus’s right not to be
+aborted. Whilst we would admire someone who chose to keep the
+violinist plugged in, it does not seem accurate to say that any right he
+has to life overrides your right to determine what happens to your body.
+Obviously this is a controversial analogy which is only relevantly
+similar to some forms of pregnancy (and for most of us, the power of
+the thought experiment depends on knowing which famous violinist is
+to be plugged into us). However, Thomson’s use of this analogy was
+very important in bringing out what was implicit in the pro- and anti-
+abortion arguments and has been the starting-point for most discussion
+of the topic since she published it in an article in 1971.
+
+When animal rights activists argue that we should be more
+concerned about animal welfare their arguments usually rely on an
+implicit analogy between human and animal abilities to feel pain. We
+know that humans feel pain and that, in its extreme forms, it is a terrible
+thing which we would do almost anything to avoid: that’s why torture
+can be so effective. Mammals are very like human beings in many
+ways. They are genetically quite closely related to us and have similar
+physiological responses to physical damage; like us they try to avoid
+damage to themselves, and in certain circumstances make noises which
+we think we can recognise as indicating that they are in pain because
+they are similar to noises we make when in pain. So it seems reasonable
+to conclude on the basis of the analogy between human beings and
+mammals that mammals are capable of feeling certain sorts of pain.
+True, there are some differences between humans and other mammals.
+Apart from a few exceptional chimpanzees, other mammals don’t have
+language, for instance. But these are not usually considered relevant
+differences. Insects, however, are far less like most human beings than
+are mammals; so any conclusion about insect pain based on an analogy
+with human pain would be correspondingly weaker than one about
+mammal pain.
+
+Consider one more example. Some pundits have argued that
+outlawing possession of guns in the United States would, far from
+reducing violent crime, actually increase the number of shootings that
+would occur. Their reasoning is based on the fact that outlawing alcohol
+during the Prohibition was correlated with a huge increase in illegal
+alcohol-related crime (but see correlation = cause confusion).
+Similarly, they say, outlawing gun ownership will lead to an increase
+in gun-trafficking, giving criminals even greater access to firearms than
+they now have. And the more access criminals have to firearms, the
+more likely they are to use them. This argument relies on there being
+relevant similarities between the outlawing of alcohol during
+Prohibition and the outlawing of guns today. It involves other
+assumptions too, such as that if criminals possess firearms they are
+likely to use them, and that widespread possession of firearms doesn’t
+itself act as a deterrent to their use because of the risk of getting shot
+yourself if you open fire (i.e. your opponent is more likely to be armed).
+But the main argument rests on an analogy. However, it is fairly easy
+to see that this is a very weak analogy since the situations differ in so
+many important respects: the fact that guns don’t get consumed when
+you use them, whereas alcohol does, for instance. If the two situations
+can be shown to be significantly dissimilar then any conclusions drawn
+on the basis of such an analogy will require independent support. The
+conclusion of the argument could turn out to be true (see bad reasons
+fallacy), but this argument from analogy alone does not provide
+conclusive support for the conclusion.
+
+Analogies are often used as a form of rhetoric. When, for
+example, Hitler claimed that he was going to wring Britain’s neck like
+a chicken, this was meant to show the power of Nazi Germany, and the
+vulnerability of Britain: Germany’s relation to Britain was supposed to
+be like that of a farmer to a chicken about to be slaughtered. Churchill
+famously retorted, ‘Some chicken, some neck’, suggesting that the
+analogy was weaker in certain relevant respects than Hitler believed,
+and that Hitler’s conclusion about the ease with which he would defeat
+the British and their Allies was unwarranted. Neither Hitler nor
+Churchill produced an argument for their conclusions.
+
+With strong analogies, the arguer may be on safe ground.
+However, even where an analogy appears to be very strong, there is still
+a possibility of being misled. Mushrooms and toadstools can look very
+similar and are closely related, yet the former are edible and the latter
+poisonous. So even where there seem to be excellent grounds for
+drawing conclusions on the basis of two things being very similar in
+some respect, it may prove unwise to treat these conclusions as firmly
+established. This is not to say that arguing on the basis of an analogy
+should be avoided, only that it should be treated with caution and that,
+wherever possible, independent support for the conclusion should be
+sought. It would be unreasonable to expect an analogy to hold in every
+respect, or even in most respects; however, for the argument to have
+any force, the analogy must hold in relevant respects. What counts as
+a relevant respect is determined largely by context. As with most
+applications of critical thinking it is important to be sensitive to the
+particular case, a fact rarely acknowledged in textbooks on the subject.
+
+anecdotal evidence
+Evidence which comes from selected stories either of what has
+happened to you or to someone you know. In many cases this is very
+weak evidence and typically involves generalising from a particular
+case (see rash generalisation).
+
+For instance, if you are debating whether or not acupuncture is
+an adequate alternative to conventional medicine, someone might tell
+you that their friend tried acupuncture and that it seemed to work
+wonders. On its own this is merely anecdotal evidence. First, there is a
+risk that details of the story may get changed in the retelling. More
+importantly, to argue from this single case that acupuncture is an
+adequate alternative to conventional medicine would be irresponsible:
+anecdotal evidence is different from a controlled scientific investigation
+into the effectiveness of acupuncture. For instance, a scientist
+investigating this question would want to have a control group to see if
+people spontaneously recover from ailments without having any
+treatment at all. A scientist would also consider more than a single case,
+and follow up the history of individual cases to see if any improvements
+in health were short-term. And, of course, comparisons would have to
+be made between the effects of acupuncture and more conventional
+medical techniques, taking into account placebo effects and the
+possibility of spontaneous recovery. Anecdotal evidence
+cannot usually provide this sort of information in a reliable form and
+may be clouded by wishful thinking.
+
+The term ‘anecdotal evidence’ is often used to suggest that
+the evidence is merely anecdotal, that is, in a pejorative way. However,
+not all anecdotal evidence is unreliable: if you have reason to be
+confident in the source of the evidence, then anecdotal evidence
+can help to support or undermine a conclusion. Indeed, many sorts
+of scientific enquiry begin by examining anecdotal evidence about
+the phenomenon to be examined, and on the basis of this develop a
+way of testing in a controlled way whether or not this evidence
+points to the truth of the matter. For instance, an investigation into
+possible cures for night cramps in elderly patients might begin by
+looking at the anecdotal evidence that quinine in tonic water reduces
+their occurrence. Detailed examination of patients under controlled
+conditions might then reveal that the anecdotal evidence had been
+unreliable, and that the quinine had only a minimal effect on the
+incidence of cramps.
+
+The appropriateness of using anecdotal evidence depends
+entirely on the context and on the type of anecdotal evidence
+available.
+
+antecedent
+The first part of an ‘if . . . then’ statement (see conditional statement).
+For example, in ‘If you spend too long at the computer screen then
+you’ll get eye strain’, the antecedent is ‘you spend too long at the
+computer screen’.
+
+See affirming the antecedent, affirming the consequent,
+consequent, denying the antecedent, denying the consequent.
+
+appeals to authority
+See truth by authority.
+
+arbitrary redefinition
+See humptydumptying and stipulative definition.
+
+argument
+Reasons supporting a conclusion. This should not be confused with the
+use of ‘argument’, meaning a quarrel, in which assertion and counter-
+assertion are far more common than reasoning. In the sense in which
+‘argument’ is used in this book, an argument provides reasons for
+believing a conclusion. In contrast, an assertion merely presents a
+conclusion and we have no particular grounds for believing that
+conclusion, unless of course we know its source to be a reliable
+authority on the subject of the conclusion (see truth by authority).
+Reliable authorities are usually capable of giving arguments which
+support their conclusions.
+
+In logic textbooks, arguments, especially deductive ones (see
+deduction), are very neat, with the premises clearly distinguished from
+the conclusion and the conclusion indicated by the word ‘therefore’. In
+real life the structure of arguments is unlikely to be so easy to identify.
+Usually at least one of the premises is assumed rather than stated
+explicitly (see assumptions and enthymeme); conclusions do not
+always come after the premises, they often come before, and are rarely
+signposted by words such as ‘therefore’ and ‘so’. Consequently it is
+often necessary to clarify the precise relation between premises and
+conclusion before attempting to evaluate any argument.
+
+For instance, you might come across the following:
+  You shouldn’t let your child watch that film A Clockwork Orange.
+  It’s so violent.
+On further questioning it might emerge that the implied argument was:
+  Watching violent films causes children to be violent.
+  You should prevent children from doing anything that makes
+  them violent.
+  You can prevent your child watching a film.
+  A Clockwork Orange is a violent film.
+  Therefore you should prevent your child watching the film A
+  Clockwork Orange.
+
+This is a valid argument (see validity). Obviously it would in most
+contexts be extremely tedious to spell out every condensed argument
+in this fashion. However, often it is unclear precisely how the premises
+are supposed to be supporting the conclusion; in such cases it may be
+worth making the underlying argument explicit.
+
+Notice that in the above argument, if the premises are true, then
+the conclusion must be true: there is no possible situation in which all
+the premises are true and yet the conclusion false. This is because the
+structure of the argument is a valid one (see validity). Another way of
+putting this is that the form of a valid argument is truth-preserving: if
+you put true premises into this sort of structure, then you are guaranteed
+to get a true conclusion from it. What’s more, if you know the argument
+to be valid then you must either accept the conclusion as true, or else
+deny the truth of at least one of the premises. A valid argument with
+true premises is known as a sound argument.
+
+Some arguments are inductive (see induction). For instance,
+consider the following:
+
+Picture restoration has often damaged important paintings; the
+world’s national galleries all contain examples of damaging
+restoration. So you should only embark upon a policy of picture
+restoration with extreme caution since there is a serious
+risk that otherwise you will cause more damage than you
+prevent.
+
+This is an argument, but it is not deductive: it is not truth-preserving.
+Its conclusion, that you should only embark upon a policy of picture
+restoration with extreme caution, is based on the evidence that some
+picture restorers in the past have caused serious damage to paintings.
+The reasons given for believing the conclusion are based on
+observation and on the assumption that the future will be like the past
+in certain relevant respects. Inductive arguments never prove anything
+conclusively; however they do point to what is probably or almost
+certainly true. They can provide very strong support for conclusions
+even though this always stops short of the truth-preserving nature of
+deductive arguments.
+
+Arguments are of greater value than unsupported assertion since
+they provide reasoning which other people can assess for themselves to
+see whether or not it supports the given conclusion. Assessing the
+arguments on either side is one of the best methods we have for
+deciding between competing views on any issue. If someone presents
+an argument we can judge whether or not their conclusion is supported
+by the reasons given; if they resort to prejudice, rhetoric, and
+unsupported assertion, even though the conclusions may turn out to be
+true, we aren’t in a position to see why they are true or how they have
+been reached.
+
+assertion
+An unsupported statement of belief. Whenever you simply say that
+something is the case you make an assertion.
+
+For instance, I might say, ‘Reading this book will improve your
+critical thinking.’ This is an assertion because I have not given any
+reasons or evidence to support this statement. Or, I might assert ‘God
+does not exist’; but until I offer some kind of argument or evidence,
+you would have no reason to believe me unless I had somehow
+established myself as an authority on the subject (and even then you
+might want to seek some kind of explanation of how I had come to this
+view; see truth by authority).
+
+Merely asserting something, no matter how loudly, doesn’t make
+it true. Confident assertion is no substitute for argument, even though
+most of us, in our uncritical moments, can be persuaded by people who
+seem to know what they’re talking about, whether or not they really do.
+The only way other people can assess the truth of an assertion is to
+examine reasons and evidence that might be given in support of it, or
+else to seek out evidence or reasons not to believe it. Nevertheless, bald
+assertions of belief are common; this is in part because it would be
+tedious to spell out every implicit reason for holding a belief,
+particularly when communicating with someone who shares many of
+your assumptions.
+
+An unstated premise, one that is taken for granted and never made
+explicit. Actually the word ‘assumption’ is ambiguous (see ambiguity)
+since it could also mean a stated premise that is the starting-point of an
+argument (see supposition, sometimes also known as a presupposition).
+We all make assumptions most of the time; if we didn’t, any discussion
+would require so much stage-setting that we’d never get to the
+point. Because we share many assumptions it is relatively easy to
+communicate with one another. But when two people try to discuss an
+issue on which they hold very different assumptions, confusion and
+misunderstandings are likely to arise.
+
+For instance, in a discussion about the status of so-called
+computer viruses, one eminent scientist argued that there are good
+reasons for considering computer viruses a form of life since, like
+ordinary viruses, they are capable of replicating themselves and are
+parasitic. Another scientist pointed out that even if we concede the
+point that computer viruses are very like ordinary viruses, this still
+doesn’t prove that computer viruses should be considered living
+organisms since it is contentious to say that ordinary viruses are alive
+themselves. The first scientist was arguing on the basis of a strong
+analogy (see analogy, arguments from) between computer viruses
+and ordinary viruses and the second scientist was challenging the
+conclusion which could be drawn even if the analogy actually held.
+The second scientist’s point was that the first scientist was making a
+large assumption about whether ordinary viruses are alive or not. Only
+if ordinary viruses were alive would the first scientist’s conclusion be
+warranted. This assumption was not made explicit in the first scientist’s
+argument: he only gave good reasons for there being a strong analogy
+between computer and ordinary viruses. Once the assumption has been
+made explicit it can be discussed and its truth or falsity ascertained (see
+also enthymeme). In this case the question of whether or not a virus is
+a living thing could be addressed and then, if this is established, the
+strength of the analogy between biological and computer viruses could
+be examined.
+
+Some people joke that when you assume something you ‘make
+an ass out of “u” and “me” ’. This isn’t just a bad pun; it is misleading.
+We all have to make assumptions most of the time and there is nothing
+intrinsically wrong with making them provided that the assumptions
+are actually true and we are aware of what those assumptions are. I
+suppose the point of the comment is that in certain situations it is very
+important not to make any assumptions before evidence has been
+gathered. This is very different from saying that all assumptions should
+be avoided, which would be an impossible goal (see also some/all
+confusion).
+
+authority
+See kowtowing, truth by authority and universal expertise.
