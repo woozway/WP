@@ -1,0 +1,202 @@
+Nigel Warburton, A Little History of Philosophy
+
+Is the Present King of France Bald?
+Bertrand Russell
+
+Bertrand Russell’s main interests as a teenager were sex, religion
+and mathematics – all at a theoretical level. In his very long life
+(he died in 1970, aged 97) he ended up being controversial
+about the first, attacking the second, and making important
+contributions to the third.
+
+Russell’s views on sex got him into trouble. In 1929 he
+published Marriage and Morals. In that book he questioned
+Christian views about the importance of being faithful to your
+partner. He didn’t think you had to be. This raised a few
+eyebrows at the time. Not that that bothered Russell much. He’d
+already spent six months in Brixton prison for speaking out
+against the First World War in 1916. In later life he helped
+found the Campaign for Nuclear Disarmament (CND), which
+is an international movement opposed to all weapons of mass
+destruction. This sprightly old man would be at the front of
+public rallies in the 1960s, still as opposed to war as he had been
+as a young man some fifty years earlier. As he put it, ‘Either man
+will abolish war, or war will abolish man.’ So far neither outcome
+has been realized.
+
+On religion he was just as outspoken and just as provocative.
+For Russell there was no chance of God stepping in to save
+humanity: our only chance lay in using our powers of reason.
+People were drawn to religion, he believed, because they were
+afraid of dying. Religion comforted them. It was very reassuring
+to believe that a God exists who will punish evil people, even
+if they get away with murder and worse on earth. But it wasn’t
+true. God doesn’t exist. And religion nearly always produced
+more misery than happiness. He did allow that Buddhism
+might be different from most other religions, but Christianity,
+Islam, Judaism and Hinduism all had a lot to answer for. These
+religions throughout their histories had been the cause of war,
+individual suffering and hatred. Millions had died as a result
+of them.
+
+It should be clear from all this that, despite being a pacifist,
+Russell was prepared to stand up and fight (at least with ideas)
+for what he believed to be right and just. Even as a pacifist he
+still thought that in rare cases, such as the Second World War,
+fighting might be the best option available.
+
+By birth he was an English aristocrat. He came from a
+very distinguished family: his official title was the 3rd Earl
+Russell. You could probably tell that he was an aristocrat just
+by looking at him. He had a distinguished haughty sort of
+look, an impish grin and twinkly eyes. His voice gave him
+away as a member of the upper classes. On recordings he
+sounds like something from another century – which he was:
+he was born in 1872, so was truly a Victorian. His grand -
+father on his father’s side, Lord John Russell, had been Prime
+Minister.
+
+Bertrand’s non-religious ‘godfather’ was the philosopher
+John Stuart Mill (the subject of Chapter 24). Sadly, he never
+got to know him as Mill died when Russell was still a toddler.
+But he was still a huge influence on Russell’s development.
+Reading Mill’s Autobiography (1873) was what led Russell to
+reject God. He had previously believed the First Cause
+Argument. This is the argument, used by Thomas Aquinas
+amongst others, that everything must have a cause; and the
+cause of everything, the very first cause in the chain of cause
+and effect, must be God. But Mill asked the question ‘What
+caused God?’ and Russell saw the logical problem for the First
+Cause Argument. If there is one thing that doesn’t have a cause
+then it can’t be true that ‘Everything has a cause’. It made more
+sense to Russell to think that even God had a cause rather than
+believe that something could just exist without being caused by
+anything else.
+
+Like Mill, Russell had an unusual and not particularly happy
+childhood. Both his parents died when he was very young, and
+his grandmother, who looked after him, was strict and a bit
+distant. Taught at home by private tutors, he threw himself into
+his studies and became a brilliant mathematician, going on to
+lecture at Cambridge University. But what really fascinated him
+was what made mathematics true. Why is 2 + 2 = 4 true? We
+know it is true. But why is it true? This led him quite quickly to
+philosophy.
+
+As a philosopher, his real love was logic: a subject on the
+border between philosophy and mathematics. Logicians study
+the structure of reasoning, usually using symbols to express
+their ideas. He became fascinated by the branch of mathematics
+and logic called set theory. Set theory seemed to promise a way
+of explaining the structure of all our reasoning, but Russell
+came up with a big problem for that idea: it led to contradiction.
+The way he showed this was in a famous paradox that was
+named after him.
+
+Here’s an example of Russell’s Paradox. Imagine a village in
+which there is a barber whose job it is to shave all (and only) the
+people who don’t shave themselves. If I lived there, I’d probably
+shave myself – I don’t think I’d be organized enough to get to the
+barber every day and I can shave myself perfectly well. And it
+would probably work out too expensive for me. But if I decided
+I didn’t want to, then the barber would be the one to shave me.
+But where does that leave the barber? He’s allowed to shave
+only people who don’t shave themselves. By this rule, he can’t
+ever shave himself because he can only shave people who don’t
+shave themselves. This is going to get difficult for him. Usually
+if someone can’t shave himself in this village it is the barber
+who does it for him. But the rule won’t allow the barber to do
+that, because that would turn him into someone who shaved
+himself – but the barber only shaves the ones who don’t shave
+themselves.
+
+This is a situation that seems to lead to a direct contradiction
+– saying something is both true and false. That’s what a paradox
+is. It’s very puzzling. What Russell discovered was that when a
+set refers to itself this sort of paradox emerges. Take another
+famous example of the same sort of thing: ‘This sentence is
+false.’ This is a paradox too. If the words ‘This sentence is false’
+mean what they seem to mean (and are true) then the sentence
+is false – which then means that what it states is true! This
+seems to suggest that the sentence is both true and false. But a
+sentence can’t be true and false at the same time. That’s a basic
+part of logic. So there’s the paradox.
+
+These are interesting puzzles in themselves. There’s no easy
+solution to them, and that seems strange. But they were far
+more important than that for Russell. What they did was reveal
+that some of the basic assumptions that logicians all over the
+world had been making about set theory were wrong. They
+needed to begin again.
+
+Another of Russell’s main interests was how what we say
+relates to the world. If he could work out what made a statement
+true or false it would be a significant contribution to human
+knowledge, he felt. Again, he was interested in the very abstract
+questions that lie behind all our thinking. Much of his work was
+devoted to explaining the logical structure underlying the state-
+ments we make. He felt that our language was far less precise
+than logic. Ordinary language needed to be analysed – taken
+apart – to bring out its underlying logical shape. He was
+convinced that the key to making advances in all areas of
+philosophy was this sort of logical analysis of language, which
+involved translating it into more precise terms.
+
+For example, take the sentence, ‘The golden mountain does
+not exist.’ Everyone is likely to agree that this sentence is true.
+That’s because there is no mountain made of gold anywhere in
+the world. The sentence seems to be saying something about a
+thing that does not exist. The phrase ‘the golden mountain’
+seems to refer to something real, but we know it doesn’t. This is
+a puzzle for logicians. How can we talk meaningfully about
+non-existent things? Why isn’t the sentence completely mean-
+ingless? One answer, given by the Austrian logician Alexius
+Meinong, was that everything that we can think about and
+talk about meaningfully does exist. On his view, the golden
+mountain must exist, but in a special way he labelled ‘subsist-
+ence’. He also thought unicorns and the number 27 ‘subsist’ in
+this way.
+
+Meinong’s way of thinking about logic didn’t seem right to
+Russell. It does seem very strange. It meant that the world was
+full of things that exist in one sense but not in another. Russell
+devised a simpler way of explaining how what we say relates to
+what exists. This is known as his Theory of Descriptions. Take
+the rather odd sentence (one of Russell’s favourites) ‘The present
+king of France is bald.’ Even in the early twentieth century when
+Russell was writing there was no king of France. France got rid
+of all her kings and queens during the French Revolution. So
+how could he make sense of that sentence? Russell’s answer was
+that, like most sentences in ordinary language, it wasn’t quite
+what it seemed.
+
+Here’s the problem. If we want to say that the sentence ‘The
+present king of France is bald’ is false, this seems to be commit-
+ting us to saying that there is a present king of France who isn’t
+bald. But that surely isn’t what we mean at all. We don’t believe
+there is a present king of France. Russell’s analysis was this.
+A statement like ‘The present king of France is bald’ is
+actually a kind of hidden description. When we speak about ‘the
+present king of France’ the underlying logical shape of our idea
+is this:
+
+(a) There exists something that is the present king of France.
+(b) There is only one thing that is the present king of France.
+(c) Anything that is the present king of France is bald.
+
+This complicated way of spelling things out allowed Russell to
+show that ‘The present king of France is bald’ can make some
+sense even though there is no present king of France. It makes
+sense, but is false. Unlike Meinong, he didn’t need to imagine
+that the present king of France had to exist somehow (or
+subsist) in order to speak and think about him. For Russell the
+sentence ‘The present king of France is bald’ is false because
+the present king of France doesn’t exist. The sentence suggests
+that he does; so the sentence is false rather than true. The
+sentence ‘The present king of France is not bald’ is also false for
+the same reason.
+
+Russell started what is sometimes called the ‘linguistic turn’
+in philosophy, a movement in which philosophers began to
+think very hard about language and its underlying logical form.
+A.J. Ayer was part of that movement.
