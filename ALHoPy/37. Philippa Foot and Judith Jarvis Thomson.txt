@@ -1,0 +1,172 @@
+Nigel Warburton, A Little History of Philosophy
+
+The Runaway Train and the Unwanted Violinist
+Philippa Foot and Judith Jarvis Thomson
+
+You are out for a walk one day and see a runaway train hurtling
+down the tracks towards five workers. The driver is uncon-
+scious, possibly as the result of a heart attack. If nothing is done,
+all will die. The train will squash them. It’s travelling much too
+fast for them to get out of the way. There is, however, one hope.
+There is a fork in the tracks just before the five men, and on the
+other line there is only one worker. You are close enough to
+the points to flick the switch and make the train veer away
+from the five and kill the single worker. Is killing this innocent
+man the right thing to do? In terms of numbers it clearly is: you
+save five people by killing just one. That must maximize happi-
+ness. To most people this seems the right thing to do. In real life
+it would be very difficult to flick that switch and watch someone
+die as a result, but it would be even worse to hold back and
+watch five times as many people die.
+
+This is a version of a thought experiment originally created by
+the British philosopher Philippa Foot (1920–2010). She was
+interested in why saving the five people on the track was accept-
+able, but some other cases of sacrificing one to save many weren’t.
+Imagine a healthy person walking into a hospital ward. In the
+ward are five people who desperately need various organs. If one
+doesn’t get a heart transplant she will certainly die. Another needs
+a liver, one a kidney, and so on. Would it be acceptable to kill the
+healthy patient and slice up the body to provide the organs for the
+unhealthy ones? Hardly. No one believes that it would be accept-
+able to kill the one healthy person, remove his heart, lungs, liver,
+kidneys, and implant them in the five. Yet that is a case of sacri-
+ficing one to save five. What’s the difference between that and the
+runaway train?
+
+A thought experiment is an imaginary situation designed to
+bring out our feelings, or what philosophers call ‘intuitions’, on
+a particular issue. Philosophers use them a lot. Thought experi-
+ments allow us to focus more closely on what is at stake. Here
+the philosophical question is, ‘When is it acceptable to sacrifice
+one life to save more?’ The story about the runaway carriage
+allows us to think about this. It isolates the key factors and
+shows us whether or not we feel that such an action is wrong.
+
+Some people say you should never flick the switch in this
+example because that would be ‘playing God’: deciding who
+should die and who should live. Most people, however, think
+you should.
+
+But imagine a related case. The American philosopher Judith
+Jarvis Thomson thought up this version of the original problem.
+The runaway train this time is on a straight piece of track
+running towards the five unfortunate workers who will certainly
+be killed unless you do something. You are standing on a bridge,
+and next to you is a very large man. If you push him over the
+bridge, he is heavy enough to slow down and stop the train
+before it hits the five workers. Assuming you have the strength
+to push this man over in front of the train, should you do it?
+
+Many people find this a tougher case, and are more inclined
+to say ‘no’, despite the fact that in both this case and in the case
+of the fork in the line and the points that you can switch the
+consequence of your actions is the death of one person rather
+than five. In fact, pushing the large man off the bridge looks
+very like murder. If the consequences are the same in the two
+cases then there shouldn’t be an issue. If it is right to flick the
+switch in the first example, it must surely be right to push the
+large man in front of the train in the second. This is puzzling.
+
+If the imaginary situation of pushing someone over a bridge
+suggests physical difficulties, or you are put off by the brutality
+of having to wrestle the man to his death, the case can be revised
+so that there is a trapdoor on the bridge. Using the same kind of
+lever as you do in the first case with the point-switching, you
+can drop the large man into the path of the train with minimal
+effort. You just flick a lever. Many people see this as morally far
+removed from the fork in the line case. Why should this be so?
+
+The so-called Law of Double Effect is one explanation of why
+we think the forking track case and the fat man case are
+different. This is the belief that it can be all right, for example,
+to hit someone so hard that they die but only if your intention
+is to defend yourself and a lighter blow wouldn’t protect you.
+Predictable bad side effects of an action with a good intention
+(in this case saving yourself) can be acceptable, but deliberate
+harm is not. It isn’t right to go out and poison someone who is
+planning to kill you. The first case is one in which you have an
+acceptable intention, it’s just that following through on it will
+result in someone’s death. In the second case you intend to kill
+the person, and that isn’t acceptable. For some people, this
+solves the problem. Other people think this principle of Double
+Effect is a mistake.
+
+These cases may seem far-fetched and nothing to do with
+everyday life. In one sense that is true. They’re not meant to be
+real cases. These are thought experiments designed to clarify
+our beliefs. But from time to time real-life situations do arise
+that lead to similar decisions. For example, during the Second
+World War the Nazis were firing flying bombs into parts of
+London. A German spy had become a double agent. The British
+had the chance to send misleading information back to the
+Germans, telling them that the rockets were falling far to the
+north of their intended targets. This would have had the effect
+of making the Germans change their aim, so that instead of
+falling on heavily populated parts of London, the rockets would
+fall further to the south on people in Kent and Surrey. In other
+words, there was a possibility of giving information that would
+cause fewer people to be killed. In this case the British decided
+not to play God.
+
+In a different sort of real-life situation, the participants did
+decide to take action. In the Zeebrugge disaster in 1987, when a
+car ferry sank and dozens of passengers were struggling to get
+out of the icy sea, a young man climbing to safety on a rope
+ladder froze with fear and could not move. He stayed in that
+position for at least ten minutes, stopping anyone else from
+getting out of the sea. If they didn’t get out quickly they would
+drown or die of cold. Eventually those in the water pulled him
+off the ladder and managed to escape to safety. The young man
+fell into the sea and drowned. The decision to pull the young
+man off the ladder must have been an agonizing one to make,
+but in these extreme circumstances, as with the runaway train,
+sacrificing one person to save many was probably the right
+thing to do.
+
+Philosophers are still arguing about the train example and
+how it should be solved. They’re also arguing about another
+thought experiment that Judith Jarvis Thomson (born 1929)
+came up with. This one was to show that a woman who had
+used contraception but who had still become pregnant did
+not have a moral duty to go through with having the baby. She
+could have an abortion without doing something morally
+wrong. To have the baby in such circumstances would be an act
+of charity, but not a duty. Traditionally, debates about the
+morality of abortion had focused on the foetus’ point of view.
+Her argument was important in that it gave a lot of weight to the
+woman’s perspective. Here’s the example.
+
+There is a famous violinist who has a kidney problem. His
+only chance of survival is to be plugged into a person who
+shares his very rare blood group. You have that same blood
+group. One morning you wake up to find that while you were
+asleep doctors have attached him to your kidneys. Thomson
+argues that in such a situation you don’t have a duty to keep him
+plugged into you, even though you know that he will die if you
+pull the tubes out. In the same way, she suggests, if a woman is
+pregnant even though she used contraception, the developing
+foetus inside her does not have an automatic right to the use of
+her body. The foetus is like the violinist.
+
+Before Thomson introduced this example, many people
+thought that the crucial question was, ‘Is a foetus a person?’
+They believed that if they could show that a foetus was a
+person, then abortion would obviously be immoral in every
+case. Thomson’s thought experiment suggested that even if the
+foetus is a person, that doesn’t settle the question.
+
+Of course, not everyone agrees with this answer. Some people
+still think that you shouldn’t play God even if you wake up with
+a violinist plugged into your kidneys. It would be a difficult life,
+unless you really loved violin music. But it would still be wrong
+to kill the violinist even though you had not chosen to help him.
+Likewise, plenty of people believe that you should never delib-
+erately terminate a healthy pregnancy even if you did not intend
+to get pregnant and took precautions against doing so. What the
+cleverly constructed thought experiment does, though, is bring
+out the principles underlying these disagreements.
+
+The political philosopher John Rawls also used a thought
+experiment, in his case to investigate the nature of justice and
+the best principles for organizing society.

@@ -1,0 +1,245 @@
+Nigel Warburton, A Little History of Philosophy
+
+Learning from Mistakes
+Karl Popper and Thomas Kuhn
+
+In 1666 a young scientist was sitting in a garden when an apple
+fell to the ground. This made him wonder why apples fall
+straight down, rather than going off to the side or upwards. The
+scientist was Isaac Newton, and the incident inspired him to
+come up with his theory of gravity, a theory that explained the
+movements of planets as well as apples. But what happened
+next? Do you think that Newton then gathered evidence that
+proved beyond all doubt that his theory was true? Not according
+to Karl Popper (1902–94).
+
+Scientists, like all of us, learn from their mistakes. Science
+progresses when we realize that a particular way of thinking
+about reality is false. That, in two sentences, was Karl Popper’s
+view of how humanity’s best hope for knowledge about the
+world functions. Before he developed his ideas most people
+believed that scientists begin with a hunch about how the world
+is, and then gather evidence that shows their hunch was correct.
+
+What scientists do, according to Popper, is try to prove their
+theories are false. Testing a theory involves seeing if it can be
+refuted (shown to be false). A typical scientist starts with a bold
+guess or conjecture that he or she then tries to undermine in a
+series of experiments or observations. Science is a creative and
+exciting enterprise, but it doesn’t prove anything is true – all it
+does is get rid of false views and – hopefully – edge towards
+truth in the process.
+
+Popper was born in Vienna in 1902. Although his family had
+converted to Christianity, he was descended from Jews and
+when Hitler came to power in the 1930s Popper wisely left the
+country, moving first to New Zealand, and later to England
+where he settled, and took up a post at the London School
+of Economics. As a young man he had wide-ranging interests
+in science, psychology, politics and music, but philosophy was
+his real love. By the end of his life he had made important
+contributions both to the philosophy of science and to political
+philosophy.
+
+Until Popper started writing about scientific method, many
+scientists and philosophers believed that the way to do science
+was to seek out evidence that supported your hypothesis. If you
+wanted to prove that all swans are white you’d make a lot of
+observations of white swans. If all the swans you looked at were
+white, it seemed reasonable to assume that your hypothesis ‘All
+swans are white’ was true. This style of reasoning goes from ‘All
+the swans I’ve seen are white’ to the conclusion ‘All swans are
+white.’ But clearly a swan that you haven’t observed could turn
+out to be black. There are black swans in Australia, for example,
+and in many zoos around the world. So the statement ‘All swans
+are white’ doesn’t follow logically from the evidence. Even if you
+have looked at thousands of swans and they were all white, it
+could still be false. The only way to prove conclusively that they
+are all white is to look at every single swan. If just one black
+swan exists, your conclusion ‘All swans are white’ will have been
+falsified.
+
+This is a version of the Problem of Induction, a problem that
+David Hume wrote about in the eighteenth century. Induction
+is very different from deduction. That is the source of the
+problem. Deduction is a type of logical argument where if the
+premises (the starting assumptions) are true the conclusion
+must be true. So, to take a famous example, ‘All men are mortal’
+and ‘Socrates is a man’ are two premises from which the logical
+conclusion ‘Socrates is mortal’ follows. You would contradict
+yourself if you agreed that ‘All men are mortal’ and that ‘Socrates
+is a man’, but denied the truth of the statement ‘Socrates is
+mortal.’ That would be like saying ‘Socrates both is and is not
+mortal.’ One way of thinking about this is that with deduction
+the truth of the conclusion is somehow contained within the
+premises and logic just teases it out. Here’s another example of
+deduction:
+
+Premise one: All fish have gills.
+Premise two: John is a fish.
+Conclusion: Therefore John has gills.
+
+It would be absurd to say that premise one and premise two
+were true, but that the conclusion was false. That would be
+completely illogical.
+
+Induction is very different from this. Induction usually
+involves arguing from a selection of observations to a general
+conclusion. If you notice that it rained every Tuesday for four
+consecutive weeks, you might generalize from this that it always
+rains on Tuesdays. That would be a case of Induction. It would
+only take one dry Tuesday to undermine the claim that it always
+rains on Tuesdays. Four consecutive wet Tuesdays is a small
+sample of all the possible Tuesdays. But even if you make
+numerous observations, as with the white swans, you can still be
+thwarted by the existence of a single case that doesn’t fit your
+generalization: one dry Tuesday or one non-white swan, for
+example. And that is the Problem of Induction, the problem of
+justifying relying on the method of induction when it seems so
+unreliable. How do you know that the next glass of water you
+drink won’t poison you? Answer: all the glasses of water you’ve
+drunk in the past were fine. So you assume that this one will be.
+We use this kind of reasoning all the time. Yet it seems that we
+aren’t completely justified in putting such faith in it. We assume
+patterns in nature that may or may not really be there.
+
+If you think that science progresses by induction, as many
+philosophers have done, then you have to face the Problem of
+Induction. How can science be based on such an unreliable style
+of reasoning? Popper’s view of how science develops neatly
+avoids this problem. That’s because, according to him, science
+doesn’t rely on induction. Scientists start with a hypothesis, an
+informed guess about the nature of reality. An example might
+be ‘All gases expand when heated.’ This is a simple hypothesis,
+but real-life science involves a great deal of creativity and imagi-
+nation at this stage. Scientists find their ideas in many places:
+the chemist August Kekulé, for example, famously dreamt of a
+snake biting its own tail, which gave him the idea for the
+hypothesis that the structure of the benzene molecule is a
+hexagonal ring – a hypothesis that has so far stood up to scien-
+tists’ attempts to prove it false.
+
+Scientists then find a way of testing this hypothesis – in this
+case, getting a lot of different sorts of gas and heating them. But
+‘testing’ doesn’t mean finding evidence to support the hypoth-
+esis; it means trying to prove that the hypothesis can survive
+attempts to falsify it. Ideally the scientists will look for a gas that
+doesn’t fit the hypothesis. Remember that in the case of the
+swans it only took one black swan to undermine the generaliza-
+tion that all swans are white. Similarly, it would only take one
+gas that failed to expand when heated to undermine the
+hypothesis that ‘All gases expand when heated.’
+
+If a scientist refutes a hypothesis – that is, shows that it is
+false – then that results in a new bit of knowledge: the knowl-
+edge that the hypothesis is false. Humanity progresses because
+we learn something. Observing lots of gases which do expand
+when heated won’t give us knowledge, except perhaps a little
+more confidence in our hypothesis. But a counter-example
+really teaches us something. For Popper a key feature of any
+hypothesis is that it has to be falsifiable. He used this idea to
+explain the difference between science and what he called
+‘pseudo-science’. A scientific hypothesis is one that can be
+proved wrong: it makes predictions that can be shown to be
+false. If I say ‘There are invisible, undetectable fairies making
+me type this sentence’, then there is no observation that you can
+make that will prove my statement is false. If the fairies are
+invisible and don’t leave any trace, there is no way of showing
+that the claim that they exist is false. It is unfalsifiable and so not
+a scientific statement at all.
+
+Popper thought that many statements made about psycho-
+analysis (see Chapter 30) were unfalsifiable in this way. He
+thought they were untestable. For example, if someone says that
+everyone is motivated by unconscious wishes, there is no test
+to prove this. Every bit of evidence, including people denying
+that they are motivated by unconscious wishes, is, according to
+Popper, merely taken as further proof that psychoanalysis is
+valid. The psychoanalyst will say, ‘The fact that you deny the
+unconscious demonstrates that you have a strong unconscious
+wish to challenge your father.’ But this statement can’t be tested
+because there is no imaginable evidence that could show that it
+was false. Consequently, Popper argued, psychoanalysis wasn’t
+a science. It couldn’t give us knowledge in the way a science
+could. Popper attacked Marxist accounts of history in the
+same way, arguing that every possible outcome would count
+as support for the view that the history of humanity is a history
+of class struggle. So again, it was based on unfalsifiable
+hypotheses.
+
+In contrast, Albert Einstein’s theory that light would be
+attracted by the sun was falsifiable. That made it a scientific
+theory. In 1919 observations of the apparent position of stars
+during an eclipse of the sun failed to refute it. But they might
+have done. The light from the stars was not normally visible, but
+under the rare conditions of an eclipse scientists were able to see
+that the stars’ apparent positions were where Einstein’s theory
+predicted they would be. If they had seemed to be somewhere
+else, this would have undermined Einstein’s theory of how light
+is attracted to very heavy bodies. Popper didn’t think these
+observations proved that Einstein’s theory was true. But the
+testability of the theory, and the fact that scientists had been
+unable to show it to be false, counted in its favour. Einstein
+made predictions which could have been wrong, but they
+weren’t.
+
+Many scientists and philosophers have been deeply impressed
+by Popper’s description of scientific method. Peter Medawar,
+who won the Nobel Prize for Medicine, for example, said, ‘I
+think Karl Popper is incomparably the greatest philosopher of
+science there has ever been.’ The scientists particularly liked the
+description of their activity as creative and imaginative; they
+also felt that Popper understood how they actually went about
+their work. The philosophers were delighted with the way that
+Popper got around the difficult issue of the Problem of Induction
+too. In 1962, however, the American historian of science and
+physicist Thomas Kuhn published a book called The Structure
+of Scientific Revolutions, which told a different story of how
+science progresses, one that suggested Popper had got things
+wrong. Kuhn believed that Popper hadn’t looked closely enough
+at the history of science. If he had he would have seen a pattern
+emerging.
+
+Most of the time what he called ‘normal science’ goes on.
+Scientists work within a framework or ‘paradigm’ that the scien-
+tists of that day share. So, for example, before people realized
+that the earth revolves around the sun, the paradigm was that
+the sun goes round the earth. Astronomers would do their
+research within that framework and would have explanations of
+any evidence that didn’t seem to fit with it. Working within this
+paradigm, a scientist like Copernicus who came up with
+the idea that the earth goes round the sun would be thought to
+have made a mistake in his calculations. According to Kuhn,
+there aren’t facts out there waiting to be discovered: instead, the
+framework or paradigm to some extent fixes what you can
+think about.
+
+Things get interesting when what Kuhn called a ‘paradigm
+shift’ happens. A paradigm shift is when a whole way of under-
+standing is overturned. This can happen when scientists find
+things that don’t fit in with the existing paradigm – such as
+observations that didn’t make sense within the paradigm that
+the sun goes round the earth. But even then it can take a long
+time for people to abandon their old ways of thinking. Scientists
+who have spent their lives working within one paradigm don’t
+usually welcome a different way of looking at the world. When
+they do eventually switch to a new paradigm, a period of
+normal science can begin again, this time working within the
+new framework. And so it goes on. That’s what happened when
+the view that the earth was the centre of the universe was over-
+turned. Once people started to think about the solar system in
+that way, there was a lot more normal science to do to under-
+stand the paths of the planets around the sun.
+
+Popper, not surprisingly, didn’t agree with this account of the
+history of science, although he did agree that the concept of
+‘normal science’ was useful. Whether he was like a scientist with
+an outdated paradigm himself, or had got closer to the truth
+about reality than Kuhn had, is an intriguing question.
+
+Scientists use real experiments; philosophers, on the other
+hand, tend to invent thought experiments to make their argu-
+ments plausible. The philosophers Philippa Foot and Judith
+Jarvis Thomson have developed a number of carefully
+constructed thought experiments that reveal important features
+of our moral thinking.

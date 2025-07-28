@@ -1,0 +1,151 @@
+Nigel Warburton, A Little History of Philosophy
+
+Rose-Tinted Reality
+Immanuel Kant (1)
+
+If you are wearing rose-tinted spectacles they will colour
+every aspect of your visual experience. You may forget that you
+are wearing them, but they will still affect what you see.
+Immanuel Kant (1724–1804) believed that we are all walking
+around understanding the world through a filter like this. The
+filter is the human mind. It determines how we experience
+everything and imposes a certain shape on that experience.
+Everything we perceive takes place in time and space, and every
+change has a cause. But according to Kant, that is not because of
+the way reality ultimately is: it is a contribution of our minds.
+We don’t have direct access to the way the world is. Nor can we
+ever take the glasses off and see things as they truly are. We’re
+stuck with this filter and without it we would be completely
+unable to experience anything. All we can do is recognize that
+it is there and understand how it affects and colours what we
+experience.
+
+Kant’s own mind was very ordered and logical. So was his life.
+He never married and he imposed a strict pattern to each day.
+In order not to waste any time, he had his servant wake him at
+5 a.m. He would then drink some tea, smoke a pipe, and begin
+work. He was extremely productive, writing numerous books
+and essays. Then he would lecture at the university. In the after-
+noon, he would go for a walk at 4.30 – exactly the same time
+each day – up and down his street precisely eight times. In fact
+people who lived in his home town of Königsberg (now
+Kaliningrad) used to set their watches by his walk.
+
+Like most philosophers, he spent his time trying to under-
+stand our relation to reality. That, in essence, is what meta-
+physics is about, and Kant was one of the greatest metaphysicians
+to have lived. His particular interest was in the limits of thought,
+the limits of what we can know and understand. This was an
+obsession for him. In his most famous book The Critique of
+Pure Reason (1781), he explored these limits, pushing right to
+the boundaries of what makes sense. This book is far from an
+easy read: Kant himself described it as both dry and obscure –
+and he was right. Very few people would claim to understand it
+all, and much of the reasoning is complex and jargon-heavy.
+Reading it can feel like struggling through a dense thicket of
+words with little sense of where you are going, and few glimpses
+of daylight. But the core argument is clear enough.
+
+What is reality like? Kant thought that we can’t ever have a
+complete picture of the way things are. We’ll never learn
+anything directly about what he calls the noumenal world,
+whatever it is that lies behind appearances. Although he some-
+times uses the word ‘noumenon’ (singular) and sometimes
+‘noumena’ (plural) he shouldn’t have done (a point Hegel made
+too, see Chapter 22): we can’t know whether reality is one thing
+or many. Strictly speaking, we can’t know anything at all about
+this noumenal world; at least we can’t get information about it
+directly. We can know about the phenomenal world, though, the
+world around us, the world we experience through our senses.
+Look out of the window. What you can see is the phenomenal
+world – grass, cars, sky, buildings, or whatever. You can’t see the
+noumenal world, only the phenomenal one, but the noumenal
+world is lurking behind all our experience. It is what exists at a
+deeper level.
+
+Some aspects of what exists, then, will always be beyond our
+grasp. Yet we can, by rigorous thought, get a greater under-
+standing than we could get from a purely scientific approach.
+The main question Kant set himself to answer in The Critique of
+Pure Reason was this: ‘How is synthetic a priori knowledge
+possible?’ That question probably doesn’t make any sense to
+you. It will take a little explaining. But the main idea is not as
+difficult as it first seems. The first word to explain is ‘synthetic’.
+In Kant’s philosophical language ‘synthetic’ is the opposite of
+‘analytic’. ‘Analytic’ means true by definition. So, for example,
+‘all men are male’ is true by definition. What this means is that
+you can know that this sentence is true without making any
+observations of actual men. You don’t need to check that they
+are all male, as they wouldn’t be men if they weren’t male. No
+fieldwork is required to come to this conclusion: you could sit
+in an armchair and work it out. The word ‘men’ has the idea of
+male built into it. It’s like the sentence ‘All mammals suckle their
+young.’ Again, you don’t need to examine any mammals at all to
+know that they all suckle their young, as that is part of the defi-
+nition of a mammal. If you found something that seemed to be
+a mammal, but which didn’t suckle its young, you’d know that it
+couldn’t be a mammal. Analytic statements are really just about
+definitions, so they don’t give us any new knowledge. They spell
+out what we’ve assumed in the way we’ve defined a word.
+
+Synthetic knowledge, in contrast, requires experience or
+observation and it gives us new information, something that
+isn’t simply contained in the meaning of the words or symbols
+we use. We know, for example, that lemons taste bitter but only
+through having tasted them (or because someone else tells us
+about their experience of tasting lemons). It isn’t true by defini-
+tion that lemons taste bitter – that is something that is learnt
+through experience. Another synthetic statement would be ‘All
+cats have tails.’ This is something that you would need to inves-
+tigate to find out whether or not it was true. You can’t tell until
+you look and see. In fact some cats, Manx cats, don’t have tails.
+And some cats have lost their tails, but are still cats. The ques-
+tion of whether all cats have tails is, then, a matter of fact about
+the world, not about the definition of ‘cat’. It’s very different
+from the statement ‘All cats are mammals’, which is just a matter
+of definition and so is an analytic statement.
+
+So where does that leave synthetic a priori knowledge? A
+priori knowledge, as we have seen, is knowledge that is inde-
+pendent of experience. We know it prior to experience, that is,
+before we’ve had experience of it. In the seventeenth and eight-
+eenth centuries there was a debate about whether or not we
+know anything at all a priori. Roughly speaking, empiricists
+(such as Locke) thought we didn’t; rationalists (such as
+Descartes) thought we did. When Locke declared that there
+were no innate ideas and that a child’s mind was a blank slate,
+he was claiming that there was no a priori knowledge. This
+makes it sound as if ‘a priori’ just means the same as ‘analytic’
+(and for some philosophers the terms are interchangeable). But
+for Kant it doesn’t. He thought that knowledge that reveals truth
+about the world, yet is arrived at independently of experience,
+is possible. That’s why he introduced the special category of
+synthetic a priori knowledge to describe this. An example of
+synthetic a priori knowledge, one that Kant himself used, was
+the mathematical equation 7 + 5 = 12. Although many philoso-
+phers have thought that such truths are analytic, a matter of the
+definition of mathematical symbols, Kant believed that we are
+able to know a priori that 7 + 5 is equal to 12 (we don’t need to
+check this against objects or observations in the world). Yet at
+the same time this gives us new knowledge: it is a synthetic
+statement.
+
+If Kant is right, this is a breakthrough. Before him philoso-
+phers investigating the nature of reality treated it simply as
+something beyond us that causes our experience. Then the
+difficulty was how we could ever get access to that reality to say
+anything meaningful about it that was more than just guess-
+work. His great insight was that we could, by the power of
+reason, discover features of our own minds that tint all our
+experience. Sitting in an armchair thinking hard, we could
+make discoveries about reality that had to be true, yet weren’t
+just true by definition: they could be informative. He believed
+that by logical argument he had done the equivalent of proving
+that the world must necessarily appear pink to us. He’d not only
+proved that we are wearing rose-tinted spectacles, but had also
+made new discoveries about the various shades of pink that
+these glasses contribute to all experience.
+
+Having answered to his satisfaction the fundamental issues
+about our relation to reality, Kant turned his attention to moral
+philosophy.
