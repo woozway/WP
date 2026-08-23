@@ -1,0 +1,167 @@
+Nigel Warburton, Thinking from A to Z
+
+vagueness
+Lack of precision. Vagueness should not be confused with ambiguity,
+which occurs when a word or phrase has two or more possible
+meanings. Vagueness is always relative to context: what is vague in one
+context might be precise in another.
+
+For instance, when filling in your age on an application form for
+a passport it’s no good writing ‘over 18’: that’s far too vague. But, in a
+different context, such as when asked your age for the purposes of
+deciding whether or not you are eligible to vote in an election, saying
+‘over 18’ may well be precise enough. When asked for directions to the
+Tower of London someone who replied, ‘It’s somewhere along the
+north bank of the Thames’ would have given a very vague answer.
+It’s not ambiguous, it just doesn’t give precise enough information
+about how to get there. When answering questions in a general
+knowledge quiz, ‘on the north bank of the Thames’ may count as an
+accurate response.
+
+Vagueness is an obstacle to efficient communication. Sometimes
+people who want to avoid committing themselves to a particular course
+of action use vagueness as a ploy. For instance, a politician asked how
+precisely he intends to save money in the public sector might make
+vague generalisations about the need for improved efficiency, which,
+while true, don’t commit him to any particular way of achieving this.
+A good journalist would then press for further information about
+precisely how this efficiency was to be achieved, forcing him to come
+out from behind this veil of vagueness. Or someone who was late for
+an appointment but didn’t want to admit that this was because he’d
+stopped for a drink on the way might say ‘Sorry I’m late, I had
+something I needed to do on the way here and it took slightly longer
+than I expected’, deliberately leaving the cause of the delay vague, and
+exercising a particular kind of economy with the truth.
+
+
+validity
+The truth-preserving quality of good deductive arguments (see
+deduction). Valid arguments guarantee true conclusions provided that
+their premises are true. Valid arguments with one or more false
+premises, however, will not guarantee true conclusions: they may have
+true conclusions, but you can’t be sure of this simply on the basis of
+their validity. Validity should not be confused with truth. Validity is
+always a quality of the structure of arguments; statements are true or
+false. Arguments can never be true or false, statements never valid or
+invalid (except when using the words ‘valid’ and ‘invalid’ in a
+colloquial sense in which they are synonymous with ‘true’ and ‘false’,
+as in the sentence ‘The prime minister’s statement that taxes are far too
+high is valid’). Only deductive arguments can be valid or invalid.
+
+For instance, consider the following argument:
+If the fire alarm rings everyone should walk to the nearest exit.
+The fire alarm is ringing.
+So everyone should walk to the nearest exit.
+
+The form of this argument is:
+If p then q
+p
+Therefore q
+
+The letters p and q are standing in for any cases that you might want to
+insert into the argument. Whatever cases you do insert will not affect
+the validity of the argument: as long as your premises are true, the
+conclusion must be true. Another example of exactly the same form of
+argument, a form which is known as affirming the antecedent (also
+known by its Latin name modus ponens) is:
+
+If anyone is caught breaking the law then they will be prosecuted.
+You have been caught breaking the law.
+So you will be prosecuted.
+
+Again, if the premises are true, the truth of the conclusion is
+guaranteed.
+
+The following is an invalid form of argument:
+All men are mortal.
+Fred is mortal.
+So Fred is a man.
+
+This bears a superficial similarity to the valid argument form:
+All men are mortal
+Fred is a man
+So Fred is mortal
+
+However, the difference is that the first example does not guarantee the
+truth of the conclusion that Fred is a man: the premises could both be
+true and yet Fred be a cat. Whereas in the second argument if we know
+that it is true that all men are mortal and that Fred is a man we can
+confidently state that it is true that Fred is mortal. Another name for an
+invalid form of argument is a formal fallacy (although the word
+‘fallacy’ is also used in a looser sense to refer to any bad way of
+arguing, or even for a false belief; see informal fallacy and ‘that’s a
+fallacy’).
+
+
+Van Gogh fallacy
+An unreliable form of argument which takes its name from the
+following case:
+
+Van Gogh was poor and misunderstood in his lifetime, yet he is
+now recognised as a great artist; I am poor and misunderstood,
+so I too will eventually be recognised as a great artist.
+
+Although obviously invalid, this type of reasoning can be particularly
+seductive to struggling artists and is a disturbingly widespread form of
+wishful thinking. Usually the argument is not stated explicitly; rather
+it is implicit in the way people live. The same form of argument occurs
+in other contexts: e.g. ‘Mick Jagger and I went to the same primary
+school; Mick Jagger turned out to be a great success, so I will do so
+too.’
+
+What’s wrong with the Van Gogh fallacy is that the class of poor,
+misunderstood and unrecognised people is much larger than the class
+of great artists or rock stars. Sharing some relatively common attribute
+with someone great in no way guarantees my greatness. It is only if
+that attribute is a cause of their being great, or has a one-to-one
+correlation (see correlation = cause confusion) with it that it is
+relevant at all; and even then it may be the sort of cause which only very
+rarely results in greatness. All that we can legitimately conclude from
+the premises of the argument is that being poor and misunderstood (or
+going to a particular primary school) does not rule out the possibility
+of greatness.
+
+It is easy to demonstrate the foolishness of relying on the Van
+Gogh fallacy by means of parody: ‘Beethoven had a heart and a spine
+and was a great composer; I have a heart and a spine, so I’ll probably
+turn out to be a great composer.’ In this form it is clear that the Van
+Gogh fallacy typically relies on a weak analogy: just because I
+resemble a great person in some unimportant respects, it does not
+follow that I resemble him in others.
+
+
+vested interest
+Having a personal investment in the outcome of a discussion: standing
+to gain if a particular conclusion is reached. People who have vested
+interests in particular outcomes often distort evidence or are
+economical with the truth (see economy with the truth) in order to
+achieve their desired end.
+
+For instance, a mortgage adviser might have a vested interest in
+persuading a house buyer to take out a certain type of mortgage because
+she stands to make a substantial commission from this transaction. This
+might lead her to stress the merits of this over other types of mortgage.
+In this case, the danger is that the naïve house buyer might believe that
+he is getting impartial advice. The mortgage adviser may not resort to
+lying; she need only be economical with the truth to dupe the gullible
+customer.
+
+Or, consider another example. A public librarian with a personal
+interest in vegetable gardening might have a vested interest in enlarging
+the vegetable gardening section of the library; this vested interest might
+blind him to the fact that very few of the readers, whom it is his role to
+serve, share his fascination for the topic. Knowing this fact about the
+librarian might change your attitude to the ever-expanding library
+section on vegetable gardening.
+
+However, as simply pointing out that someone has vested
+interests in a particular outcome is an ad hominem move of the getting
+personal kind, it in no way demonstrates that they are less than
+impartial. Their arguments need to be examined, and the evidence they
+give assessed. Nevertheless, the discovery of vested interests should
+alert you to the possibility of bias in the way that reasons and evidence
+are put across, and the strong motives for such bias.
+
+
+vicious circles
+See circular arguments and circular definitions.

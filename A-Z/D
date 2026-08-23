@@ -1,0 +1,294 @@
+Nigel Warburton, Thinking from A to Z
+
+deception
+See economy with the truth and lying.
+
+
+deduction
+Valid reasoning (see validity) from premises to conclusion. Deductive
+arguments are truth-preserving, that is, if you begin with true premises
+the conclusion must be true. Unlike induction, deduction from true
+premises guarantees true conclusions.
+
+For example, the following is a deductive argument:
+If anyone drinks and drives they deserve to be fined.
+You do drink and drive.
+So you deserve to be fined.
+
+If the premises are true, then the conclusion must be true. The
+conclusion brings out what is implicit in the premises. Here is another
+example of deduction:
+
+All Gods are immortal.
+Zeus is a God.
+Therefore Zeus is immortal.
+
+Again, if the premises are true, then the conclusion must be true.
+
+
+definition
+See circular definition, dictionary definition, humptydumptying,
+necessary and sufficient conditions, Socratic fallacy and stipulative
+definition.
+
+
+democratic fallacy
+The unreliable method of reasoning which treats majority opinion as
+revealed by voting as a source of truth and a reliable guide for action
+on every question. This is an informal fallacy. Political democracy is
+desirable because it allows widescale political participation and
+can provide a valuable check on would-be tyrants. However, there are
+many areas of life in which taking a vote would be an extremely
+unreliable way of discovering the most appropriate course of action.
+Those who succumb to the democratic fallacy feel a need to put
+decisions to the vote wherever possible, naïvely assuming that this
+is either the best way of discovering the truth about any matter, or else
+the best strategy for making sensible decisions. But, obviously, if the
+majority of voters are largely ignorant of the matter on which they are
+voting, this is likely to be reflected in their voting patterns.
+
+For instance, an airline pilot faced with the decision of whether
+or not to make an emergency landing because of bad weather con-
+ditions would be ill-advised to allow the passengers to vote on the
+issue; any majority decision would be unlikely to be based on thorough
+knowledge of the possible outcome and assessment of the dangers
+involved. It would also be an abnegation of the pilot’s responsibilities
+to shirk the decision-making. Often those who want to put every
+important decision to the vote are using the democratic procedure as a
+way of avoiding responsibility for the decisions they make: in other
+words, their faith in the democratic procedure involves a kind of
+wishful thinking since it is convenient for them not to put themselves
+into a position of ultimate responsibility. The truth is that democracy is
+only of value in some contexts; in others it is completely inappropriate.
+What is generally needed is an informed majority, not simply a
+majority.
+
+
+denying the antecedent
+A formal fallacy with the form:
+
+If p then q
+not p
+therefore not q
+
+Like the fallacy of affirming the consequent, it treats ‘if’as if it means
+‘if and only if’. For example, the following is an example of denying
+the antecedent:
+
+If the share prices rise, then you’ll get rich.
+The share prices haven’t risen.
+So you won’t get rich.
+
+In this example, it is possible for you to get rich despite the fact that the
+share prices haven’t risen. Rising share prices aren’t the only
+mechanism by which people get rich.
+
+Or consider another example:
+If you add horse manure to the soil you will increase your yield
+of vegetables.
+You haven’t added horse manure to the soil.
+So you won’t increase your yield of vegetables.
+
+Again, adding horse manure to the soil is not the only way of increasing
+the yield of vegetables: you can add compost, seaweed, pig manure and
+all kinds of inorganic fertilisers. So the conclusion doesn’t follow
+logically from the premises: it is a non sequitur.
+
+In some cases, the context and subject matter of the argument
+make it clear that ‘if’ is to to be understood as meaning ‘if and only if’.
+These are not cases of denying the antecedent. For example, in the
+following, ‘if’ can only mean ‘if and only if’:
+
+If you have a ticket for the national lottery you’ll stand a chance
+of winning.
+You haven’t got a ticket.
+So you don’t stand a chance of winning.
+
+This is a valid argument (see validity) since the only way of standing
+a chance of winning the national lottery is by having a ticket.
+
+
+denying the consequent
+A valid argument (see validity) with the following form:
+
+If p then q
+Not q
+Therefore not p
+
+This form of argument is often known by its Latin name, modus tollens.
+An example of denying the consequent is:
+
+If it rains then you’ll get wet.
+You haven’t got wet.
+So it’s not raining.
+
+
+devil’s advocate
+Someone who puts the strongest possible case against a position for
+the sake of argument rather than because of real disagreement with the
+position. The devil’s advocate tests an opponent’s argument to the limit
+often despite being broadly sympathetic with it. This is a useful
+technique for identifying loopholes and for avoiding sloppy thinking.
+If an argument can withstand sustained onslaught from someone
+scrutinising it for weaknesses then it may well be a good one; if it can’t,
+then it should be patched up (preferably not by adding spurious ad hoc
+clauses), or at worst, jettisoned.
+
+The philosopher René Descartes in his Meditations wanted to
+defend the view that there are some things which we can know
+for certain. However, rather than simply stating his conclusions, he
+began his ‘First Meditation’ by playing devil’s advocate against
+his own ideas, putting forward the best case for extreme scepticism
+about the information we acquire through our five senses. He pointed
+out that everything we learn through the senses is open to doubt, not
+just because the senses can be unreliable, but also because we can’t be
+certain at any particular time that we are not dreaming. He went even
+one step beyond this, imagining that he was being systematically
+deceived by a cunning and powerful evil demon (an example of a
+thought experiment), and questioned whether he could be absolutely
+certain that this wasn’t happening to him. Only after Descartes had built
+up the best possible case for the idea that we can know nothing for
+certain did he set out his idea that the very act of doubting proves for
+certain that the doubter exists. Thus by first examining the best possible
+arguments against his own position he pre-empted many of the
+criticisms that sceptics would otherwise have made against his position
+and demonstrated the force of his anti-sceptical argument.
+
+People who play devil’s advocate are sometimes accused of
+hypocrisy, especially when they make criticisms which they do not
+sincerely endorse: they don’t really believe in the arguments they use,
+or else they know the conclusion of the position they are attacking is
+true. However, this accusation of hypocrisy misses the point and
+perhaps in part stems from the negative associations of the word ‘devil’
+in the title at the expense of the connotations of the word ‘advocate’.
+Hypocrites hide their true intentions and beliefs; those who play devil’s
+advocate openly encourage their targets to give watertight arguments
+for their conclusions and to take heed of the force of the strongest
+arguments on the other side. Often the point of using this strategy is to
+get someone to give good reasons in support of conclusions to which
+the devil’s advocate is favourably disposed, thus encouraging them to
+investigate the justification for views which might turn out to be mere
+prejudices, or perhaps true conclusions defended by weak arguments
+(see bad reasons fallacy). This, despite appearances, is not hypocrisy,
+but rather part of a sincere pursuit of the truth.
+
+
+dictionary definitions
+Accounts of how words are and have been used. Some people treat the
+dictionary as the ultimate judge on questions of meaning. For instance,
+such people will assume that the question ‘What is art? can be
+answered by consulting the best available dictionary. But this is over-
+optimistic: when people ask a question such as ‘What is art?’ they
+aren’t requesting information of this sort. We know roughly how people
+use the word ‘art’, but that won’t solve the question of what art actually
+is and of whether or not certain ways of using the word can be justified.
+A satisfactory answer to the question will go far beyond a description
+of linguistic practice and, perhaps, will tell us whether we are justified
+in applying the word to, for example, a dead sheep suspended in a tank
+of formaldehyde.
+
+A simple record of the use of particular words will be neutral on
+the question of whether there is an independent justification for using
+words in this way. What is more, dictionary definitions are usually quite
+short, and often somewhat vague (see vagueness); sometimes they
+merely provide synonyms or near-synonyms of the word in question.
+It might be tempting to begin a discussion of the nature of justice by
+consulting a reliable dictionary to see how the word is commonly used.
+But this will not answer the political philosopher’s question ‘What is
+justice?’At best it might provide a starting point for discussion. To treat
+the dictionary as the arbiter in debates of this kind is to give it an
+inappropriate authority; it involves the assumption that the common
+use of a term is the one for which there is the best justification, an
+assumption which is not usually warranted.
+
+This isn’t to say that the dictionary cannot be the ultimate judge
+on some questions; if you want to know how words happen to be used
+and how they are conventionally spelt, then this is the place to look.
+However, to expect a dictionary to provide answers to theoretical
+questions such as ‘What is art?’ or ‘What is justice?’ is a mistake. (See
+also etymological fallacy, humptydumptying, Socratic fallacy and
+stipulative definition.)
+
+
+disanalogy
+Way in which two things being compared in an analogy (see analogy,
+arguments from) differ. If there is a serious disanalogy then this
+undermines an argument from analogy.
+
+For example, if someone attempts to persuade you that taking
+heroin is not significantly different from drinking an occasional glass
+of claret, then you can undermine their case by pointing out a number
+of serious disanalogies inherent in the comparison, and thereby refute
+their argument. First, although there are health risks attached to wine-
+drinking, they pale by comparison with those arising from the
+consumption of addictive drugs. Secondly, wine-drinking is legal,
+drug-taking illegal, so from a social point of view there are many far
+more serious consequences involved in heroin use than in alcohol
+consumption. These two disanalogies alone seriously weaken the
+analogy between heroin and claret consumption and so undermine any
+conclusions reached on the basis of the analogy.
+
+The difficulty when pointing out disanalogies between two
+things being compared comes in deciding what is to count as a relevant
+disanalogy, since there are disanalogies to be found between any two
+things. Pointing out irrelevant disanalogies does not weaken an
+argument from analogy.
+
+
+distraction
+See irrelevance, politician’s answer, red herrings and smokescreen.
+
+
+domino effect
+If one thing is allowed to happen then this will inevitably trigger a chain
+of subsequent undesirable events, just as if you knock over one domino
+then this will topple the next, which will topple the next, and so on.
+This metaphor is usually used rhetorically (see rhetoric). United States
+politicians famously used it during the Vietnam War to justify their
+country’s involvement: if one state were allowed to fall to communism,
+then, by the domino effect, this would have an inevitable and
+irreversible knock-on effect with state after state falling to communism
+– or so it was alleged.
+
+Clearly, though, as with the closely related slippery slope
+argument, the metaphor of the domino effect is only relevant in some
+cases. Any inevitability of consequence stems from the phenomenon in
+question and not from the label given to it. The metaphor persuades
+those who don’t stop to think that there is an inevitable consequence of
+a particular action; however, in most cases where the phrase ‘domino
+effect’ is used, this is merely a technique of persuasion and no further
+evidence or argument is provided. Even with real dominos the domino
+effect doesn’t always inevitably occur: a slight misalignment can lead
+to a break in the knock-on effect leaving some dominos standing.
+
+As with analogies (see analogy, argument from), you should
+always be wary of implied parallels between two phenomena and
+investigate whether or not there are indeed relevant similarities between
+the two things being compared. (See also disanalogy.)
+
+
+drawing a line
+Making a distinction between two categories which only differ in
+degree. Where there is a continuum, such as that between rich and poor,
+for some purposes, such as deciding who should be eligible for tax
+relief, it is necessary to draw a line between what is to count as rich and
+what as poor. Where we draw the line might be to some extent arbitrary,
+but that doesn’t mean that we shouldn’t actually draw it. Sometimes
+the fact that a line could have been drawn elsewhere is taken as
+evidence that we should not draw a line at all, or that the line that has
+been drawn has no force; in most contexts this view is wrong.
+
+Many cases of drawing the line arise in relation to the law. For
+example, the age of consent in Britain is fixed at 16 years, though it
+could have been fixed a few weeks or months earlier or later without
+making any significant difference. But this doesn’t mean we shouldn’t
+draw a line at all; in order to protect children from sexual exploitation
+it is important to fix an age beneath which sexual intercourse is
+prohibited by law. Similarly, in Britain the speed limit in built-up areas
+is 30 miles per hour; it could have been fixed at 25 miles per hour or
+35 miles per hour. However, it in no way follows from this that we
+should ignore the speed limit once the line between speeding and
+driving safely has been established, nor that the arbitrariness of the
+precise speed at which the line was drawn means that it could just as
+well have been fixed at 90 miles per hour. (See also slippery slope
+arguments.)
