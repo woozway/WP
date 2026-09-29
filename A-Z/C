@@ -285,10 +285,10 @@ given in support of them.
 For instance, in the following argument the conclusion is the first
 statement:
 
-The British royal family should be abolished.
-It is a symbol of inequality.
-And their marital problems set a bad example for the rest of
-the population.
+  The British royal family should be abolished.
+  It is a symbol of inequality.
+  And their marital problems set a bad example for the rest of
+  the population.
 
 The conclusion only follows logically if certain assumptions about the
 conditions for abolishing the monarchy are made, such as that you
