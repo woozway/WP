@@ -11,17 +11,17 @@ the conclusion must be true. Unlike induction, deduction from true
 premises guarantees true conclusions.
 
 For example, the following is a deductive argument:
-If anyone drinks and drives they deserve to be fined.
-You do drink and drive.
-So you deserve to be fined.
+  If anyone drinks and drives they deserve to be fined.
+  You do drink and drive.
+  So you deserve to be fined.
 
 If the premises are true, then the conclusion must be true. The
 conclusion brings out what is implicit in the premises. Here is another
 example of deduction:
 
-All Gods are immortal.
-Zeus is a God.
-Therefore Zeus is immortal.
+  All Gods are immortal.
+  Zeus is a God.
+  Therefore Zeus is immortal.
 
 Again, if the premises are true, then the conclusion must be true.
 
