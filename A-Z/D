@@ -67,11 +67,11 @@ majority.
 denying the antecedent
 A formal fallacy with the form:
 
-If p then q
-not p
-therefore not q
+  If p then q
+  not p
+  therefore not q
 
-Like the fallacy of affirming the consequent, it treats ‘if’as if it means
+Like the fallacy of affirming the consequent, it treats ‘if’ as if it means
 ‘if and only if’. For example, the following is an example of denying
 the antecedent:
 
@@ -84,10 +84,10 @@ share prices haven’t risen. Rising share prices aren’t the only
 mechanism by which people get rich.
 
 Or consider another example:
-If you add horse manure to the soil you will increase your yield
-of vegetables.
-You haven’t added horse manure to the soil.
-So you won’t increase your yield of vegetables.
+  If you add horse manure to the soil you will increase your yield
+  of vegetables.
+  You haven’t added horse manure to the soil.
+  So you won’t increase your yield of vegetables.
 
 Again, adding horse manure to the soil is not the only way of increasing
 the yield of vegetables: you can add compost, seaweed, pig manure and
@@ -99,10 +99,10 @@ make it clear that ‘if’ is to to be understood as meaning ‘if and only if�
 These are not cases of denying the antecedent. For example, in the
 following, ‘if’ can only mean ‘if and only if’:
 
-If you have a ticket for the national lottery you’ll stand a chance
-of winning.
-You haven’t got a ticket.
-So you don’t stand a chance of winning.
+  If you have a ticket for the national lottery you’ll stand a chance
+  of winning.
+  You haven’t got a ticket.
+  So you don’t stand a chance of winning.
 
 This is a valid argument (see validity) since the only way of standing
 a chance of winning the national lottery is by having a ticket.
@@ -111,16 +111,16 @@ a chance of winning the national lottery is by having a ticket.
 denying the consequent
 A valid argument (see validity) with the following form:
 
-If p then q
-Not q
-Therefore not p
+  If p then q
+  Not q
+  Therefore not p
 
 This form of argument is often known by its Latin name, modus tollens.
 An example of denying the consequent is:
 
-If it rains then you’ll get wet.
-You haven’t got wet.
-So it’s not raining.
+  If it rains then you’ll get wet.
+  You haven’t got wet.
+  So it’s not raining.
 
 
 devil’s advocate
