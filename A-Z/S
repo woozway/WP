@@ -167,8 +167,8 @@ informal fallacy gets its name from Socrates the great Athenian
 philosopher, who has been accused – probably falsely – of implicitly
 endorsing this mistaken assumption. Socrates’ method, at least as it is
 portrayed in his pupil Plato’s dialogues, was to demonstrate the
-limits of his contemporaries’understanding of central concepts, such as
-‘virtue’or ‘justice’, by getting them to attempt to define these terms and
+limits of his contemporaries’ understanding of central concepts, such as
+‘virtue’ or ‘justice’, by getting them to attempt to define these terms and
 then providing a range of counterexamples and difficulties for their
 definitions.
 
@@ -224,9 +224,9 @@ Sometimes people leave out the words ‘some’ or ‘all’ in order to
 make their pronouncements appear stronger than they really are. For
 instance, someone might say:
 
-Women are physically weaker than men.
-You are a woman.
-So you must be physically weaker than me because I’m a man.
+  Women are physically weaker than men.
+  You are a woman.
+  So you must be physically weaker than me because I’m a man.
 
 This is a kind of sophistry. The first premise can only plausibly be
 taken to mean ‘Most women are physically weaker than most men’ or
@@ -246,14 +246,14 @@ equivocation, formal and informal fallacies, pseudo-profundity,
 and rhetoric.
 
 For instance, the following is sophistry:
-Sophist: This cat is your mother.
-Cat owner: That’s ridiculous: how can this cat be my mother?
-Sophist: Well, you’re not denying that this cat is yours are you?
-Cat owner: Certainly not.
-Sophist: And isn’t it true that this cat is a mother?
-Cat owner: Yes.
-Sophist: So this cat must be your mother.
-Cat owner: Oh.
+  Sophist: This cat is your mother.
+  Cat owner: That’s ridiculous: how can this cat be my mother?
+  Sophist: Well, you’re not denying that this cat is yours are you?
+  Cat owner: Certainly not.
+  Sophist: And isn’t it true that this cat is a mother?
+  Cat owner: Yes.
+  Sophist: So this cat must be your mother.
+  Cat owner: Oh.
 
 In this case it is relatively simple to see that the sophist’s conclusion is
 false, and not much more difficult to see why it doesn’t follow from the
@@ -278,16 +278,14 @@ See black-and-white thinking, drawing a line, paradox.
 sound argument
 A valid argument (see validity) with true premises and so a true
 conclusion. For example, the following is a sound argument:
-
-All human beings are members of the species Homo sapiens.
-I am a human being.
-
-So I am a member of the species Homo sapiens.
+  All human beings are members of the species Homo sapiens.
+  I am a human being.
+  So I am a member of the species Homo sapiens.
 
 However, the next example, despite being valid, is not sound:
-All kangaroos are insects.
-Skippy is a kangaroo.
-So Skippy is an insect.
+  All kangaroos are insects.
+  Skippy is a kangaroo.
+  So Skippy is an insect.
 
 
 spurious ‘therefore’ and spurious ‘so’
@@ -298,12 +296,11 @@ what follows is the conclusion of an argument, either explicitly stated
 or implied. For instance, in the following argument, the word
 ‘therefore’ is used correctly to indicate that what follows is a
 conclusion derived from the given premises by means of deduction:
+  All fish live in water.
+  Socrates is a fish.
+  Therefore Socrates lives in water.
 
-All fish live in water.
-Socrates is a fish.
-Therefore Socrates lives in water.
-
-The word ‘so’could equally well have been used in place of ‘therefore’.
+The word ‘so’ could equally well have been used in place of ‘therefore’.
 In everyday speech it is often tedious and unnecessary to spell out all
 the premises of an argument, since it is usually reasonable to assume
 that the person with whom we are talking shares many of our
