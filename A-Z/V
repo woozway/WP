@@ -49,14 +49,14 @@ as in the sentence ‘The prime minister’s statement that taxes are far too
 high is valid’). Only deductive arguments can be valid or invalid.
 
 For instance, consider the following argument:
-If the fire alarm rings everyone should walk to the nearest exit.
-The fire alarm is ringing.
-So everyone should walk to the nearest exit.
+  If the fire alarm rings everyone should walk to the nearest exit.
+  The fire alarm is ringing.
+  So everyone should walk to the nearest exit.
 
 The form of this argument is:
-If p then q
-p
-Therefore q
+  If p then q
+  p
+  Therefore q
 
 The letters p and q are standing in for any cases that you might want to
 insert into the argument. Whatever cases you do insert will not affect
@@ -64,23 +64,22 @@ the validity of the argument: as long as your premises are true, the
 conclusion must be true. Another example of exactly the same form of
 argument, a form which is known as affirming the antecedent (also
 known by its Latin name modus ponens) is:
-
-If anyone is caught breaking the law then they will be prosecuted.
-You have been caught breaking the law.
-So you will be prosecuted.
+  If anyone is caught breaking the law then they will be prosecuted.
+  You have been caught breaking the law.
+  So you will be prosecuted.
 
 Again, if the premises are true, the truth of the conclusion is
 guaranteed.
 
 The following is an invalid form of argument:
-All men are mortal.
-Fred is mortal.
-So Fred is a man.
+  All men are mortal.
+  Fred is mortal.
+  So Fred is a man.
 
 This bears a superficial similarity to the valid argument form:
-All men are mortal
-Fred is a man
-So Fred is mortal
+  All men are mortal
+  Fred is a man
+  So Fred is mortal
 
 However, the difference is that the first example does not guarantee the
 truth of the conclusion that Fred is a man: the premises could both be
@@ -96,10 +95,9 @@ fallacy’).
 Van Gogh fallacy
 An unreliable form of argument which takes its name from the
 following case:
-
-Van Gogh was poor and misunderstood in his lifetime, yet he is
-now recognised as a great artist; I am poor and misunderstood,
-so I too will eventually be recognised as a great artist.
+  Van Gogh was poor and misunderstood in his lifetime, yet he is
+  now recognised as a great artist; I am poor and misunderstood,
+  so I too will eventually be recognised as a great artist.
 
 Although obviously invalid, this type of reasoning can be particularly
 seductive to struggling artists and is a disturbingly widespread form of
